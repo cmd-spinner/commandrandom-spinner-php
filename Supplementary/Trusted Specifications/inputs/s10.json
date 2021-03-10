@@ -1,0 +1,8 @@
+{
+    "shell": ["exec", "execvpe", "execvp", "execv", "execlp", "execle", "execl", "execle", "execve", "system", "popen"],
+    "db": ["mysql_query", "mysql_real_query", "sqlite3_prepare", "sqlite3_exec", "sqlite3_prepare_v2", "sqlite3_prepare_v3"],
+    "xml":"",
+    "config": "",
+    "env":["getenv"],
+    "folder":["/var/www/"]
+}

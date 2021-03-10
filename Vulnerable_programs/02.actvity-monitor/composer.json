@@ -1,0 +1,9 @@
+{
+	"autoload":
+	{
+		"psr-4": {
+			"plainview\\wordpress\\activity_monitor\\" : "src/",
+			"plainview\\sdk_pvam\\" : "src/sdk/"
+		}
+	}
+}

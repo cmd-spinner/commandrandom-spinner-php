@@ -1,0 +1,8 @@
+{
+    "shell": ["os.execute", "io.popen"],
+    "db": "",
+    "xml":["parser:parse"],
+    "config": "",
+    "env":["os.getenv"],
+    "folder":""
+}

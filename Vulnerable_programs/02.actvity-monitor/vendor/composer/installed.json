@@ -1,0 +1,43 @@
+[
+    {
+        "name": "plainview/sdk_pvam",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/the-plainview/sdk_pvam.git",
+            "reference": "02900a3db9b1f27a8d1bee91a803674e025f1e93"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/the-plainview/sdk_pvam/zipball/02900a3db9b1f27a8d1bee91a803674e025f1e93",
+            "reference": "02900a3db9b1f27a8d1bee91a803674e025f1e93",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "php": ">=5.4.0"
+        },
+        "time": "2014-11-16 12:45:36",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "plainview\\sdk_pvam_pvam\\": "."
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "Edward Plainview",
+                "email": "edward@plainview.se"
+            }
+        ],
+        "description": "Plainview SDK"
+    }
+]

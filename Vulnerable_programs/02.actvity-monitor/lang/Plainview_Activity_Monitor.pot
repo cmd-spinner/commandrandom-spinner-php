@@ -1,0 +1,1024 @@
+#. Activity text: Taxonomy term name changed from old to new
+#: src/hooks/edited_term.php:42
+#, php-format
+msgid "%s term %s changed from %s to %s"
+msgstr ""
+
+#. Activity text: Taxonomy term abc created
+#: src/hooks/created_term.php:34
+#, php-format
+msgid "%s term %s created"
+msgstr ""
+
+#. Activity text: Taxonomy term deleted
+#: src/hooks/delete_term.php:29
+#, php-format
+msgid "%s term %s deleted"
+msgstr ""
+
+#. Activity text: User profile updated
+#: src/hooks/profile_update.php:33
+#, php-format
+msgid "<em>Display name</em> changed from %s to %s."
+msgstr ""
+
+#. Activity text: User profile updated
+#: src/hooks/profile_update.php:43
+#, php-format
+msgid "<em>E-mail</em> changed from %s to %s."
+msgstr ""
+
+#. Activity text: User profile updated
+#: src/hooks/profile_update.php:53
+msgid "<em>Password</em> changed."
+msgstr ""
+
+#: src/database/cache.php:79
+#, php-format
+msgid "<span title=\"User ID %s\">%s</span>"
+msgstr ""
+
+#. Hook description
+#: src/hooks/wp_set_comment_status.php:17
+msgid "A comment was approved, reset, deleted, etc."
+msgstr ""
+
+#. Hook description
+#: src/hooks/user_register.php:17
+msgid "A new user was registered."
+msgstr ""
+
+#. Hook description
+#: src/hooks/wp_head.php:17
+msgid "A page was visited in the front-end. Does not work if the pages are cached."
+msgstr ""
+
+#. Hook description
+#: src/hooks/activated_plugin.php:17
+msgid "A plugin was activated."
+msgstr ""
+
+#. Hook description
+#: src/hooks/deactivated_plugin.php:17
+msgid "A plugin was deactivated."
+msgstr ""
+
+#. Hook description
+#: src/hooks/delete_post.php:15
+msgid "A post was deleted permanently."
+msgstr ""
+
+#. Hook description
+#: src/hooks/draft_to_publish.php:15
+msgid "A post was published."
+msgstr ""
+
+#. Hook description
+#: src/hooks/trash_to_publish.php:15
+msgid "A post was restored."
+msgstr ""
+
+#. Hook description
+#: src/hooks/publish_to_trash.php:15
+msgid "A post was trashed."
+msgstr ""
+
+#. Hook description
+#: src/hooks/publish_to_publish.php:15
+msgid "A post was updated."
+msgstr ""
+
+#. Hook description
+#: src/hooks/created_term.php:17
+msgid "A taxonomy term was created."
+msgstr ""
+
+#. Hook description
+#: src/hooks/delete_term.php:17
+msgid "A taxonomy term was deleted."
+msgstr ""
+
+#. Hook description
+#: src/hooks/edited_term.php:17
+msgid "A taxonomy term was edited. This is called after the terms are modified."
+msgstr ""
+
+#. Hook description
+#: src/hooks/wp_login.php:17
+msgid "A user logged in."
+msgstr ""
+
+#. Hook description
+#: src/hooks/wp_logout.php:17
+msgid "A user logged out."
+msgstr ""
+
+#. Hook description
+#: src/hooks/password_reset.php:17
+msgid "A user password was reset."
+msgstr ""
+
+#. Hook description
+#: src/hooks/profile_update.php:17
+msgid "A user profile was updated."
+msgstr ""
+
+#. Hook description
+#: src/hooks/wpmu_delete_user.php:15
+msgid "A user was deleted from the network."
+msgstr ""
+
+#. Hook description
+#: src/hooks/delete_user.php:16
+msgid "A user was deleted."
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:50
+#, php-format
+msgid "According to the settings below, you are currently%s in debug mode. Don't forget to reload this page after saving the settings."
+msgstr ""
+
+#: src/traits/admin_menu.php:99
+msgid "Activate"
+msgstr ""
+
+#: src/sdk/wordpress/updater/edd.php:56 src/sdk/wordpress/updater/edd.php:82
+msgid "Activate license"
+msgstr ""
+
+#: src/sdk/wordpress/plugin_pack/plugin_pack.php:100
+msgid "Activate plugin"
+msgstr ""
+
+#. Activity text: A plugin was activated
+#: src/hooks/activated_plugin.php:23
+#, php-format
+msgid "Activated plugin %s"
+msgstr ""
+
+#: src/traits/admin_menu.php:208
+msgid "Activities"
+msgstr ""
+
+#: src/traits/admin_menu.php:217
+msgid "Activities in database"
+msgstr ""
+
+#: src/traits/admin_menu.php:25 src/traits/admin_menu.php:26
+msgid "Activity monitor"
+msgstr ""
+
+#: src/traits/activities_overview.php:529
+#, php-format
+msgid "Activity on %s"
+msgstr ""
+
+#: src/traits/activities_overview.php:522
+msgid "Activity on all blogs"
+msgstr ""
+
+#. Hook description
+#: src/hooks/admin_head.php:17
+msgid "Admin page was viewed."
+msgstr ""
+
+#: src/sdk/wordpress/table/top/bulkactions.php:114
+msgid "Apply"
+msgstr ""
+
+#: src/traits/admin_menu.php:237
+msgid "Autorefresh"
+msgstr ""
+
+#. Table column name
+#: src/traits/activities.php:82
+msgid "Blog"
+msgstr ""
+
+#. Filter the shown blogs in the overview table filter settings.
+#: src/traits/activities_overview.php:47
+#: src/traits/activities_overview.php:242
+msgid "Blogs"
+msgstr ""
+
+#: src/sdk/wordpress/table/top/bulkactions.php:117
+msgid "Bulk Actions"
+msgstr ""
+
+#: src/sdk/wordpress/table/top/bulkactions.php:116
+msgid "Bulk actions"
+msgstr ""
+
+#: src/traits/activities_overview.php:368
+msgid "Clear your filter settings"
+msgstr ""
+
+#. Filter the shown columns in the overview table filter settings.
+#: src/traits/activities_overview.php:52
+msgid "Columns"
+msgstr ""
+
+#. Activity text: Comment VERBED, with url.
+#: src/hooks/wp_set_comment_status.php:71
+#, php-format
+msgid "Comment <a href=\"%s\">%s</a>."
+msgstr ""
+
+#. A hook category
+#: src/hooks/categories/Comments.php:14
+msgid "Comments"
+msgstr ""
+
+#: src/sdk/form.php:910
+msgid "Could not parse date"
+msgstr ""
+
+#: src/sdk/form.php:397
+msgid "DD"
+msgstr ""
+
+#: src/sdk/form.php:402
+msgid "Date format"
+msgstr ""
+
+#: src/traits/admin_menu.php:100
+msgid "Deactivate"
+msgstr ""
+
+#: src/sdk/wordpress/updater/edd.php:63
+msgid "Deactivate license for this site"
+msgstr ""
+
+#: src/sdk/wordpress/plugin_pack/plugin_pack.php:101
+msgid "Deactivate plugin"
+msgstr ""
+
+#. Activity text: A plugin was deactivated
+#: src/hooks/deactivated_plugin.php:23
+#, php-format
+msgid "Deactivated plugin %s"
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:85
+msgid "Debug IPs"
+msgstr ""
+
+#: src/traits/admin_menu.php:106
+msgid "Debug info"
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:44
+msgid "Debugging"
+msgstr ""
+
+#: src/traits/activities_overview.php:88
+msgid "Delete"
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:80
+msgid "Delete debug file"
+msgstr ""
+
+#: src/sdk/wordpress/updater/edd.php:58
+msgid "Delete license data"
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:79
+msgid "Delete the contents of the debug file now after saving the settings."
+msgstr ""
+
+#: src/database/cache.php:43
+#, php-format
+msgid "Deleted blog %s"
+msgstr ""
+
+#: src/database/cache.php:83
+#, php-format
+msgid "Deleted user %s"
+msgstr ""
+
+#. Table column name
+#: src/sdk/form.php:369 src/traits/activities.php:90
+#: src/traits/admin_menu.php:104
+msgid "Description"
+msgstr ""
+
+#: src/traits/admin_menu.php:233
+msgid "Display"
+msgstr ""
+
+#: src/traits/activities_overview.php:317
+msgid "Display IPs"
+msgstr ""
+
+#: src/traits/activities_overview.php:271
+msgid "Display blogs"
+msgstr ""
+
+#: src/traits/activities_overview.php:292
+msgid "Display hooks"
+msgstr ""
+
+#: src/traits/activities_overview.php:316
+msgid "Display the selected IP addresses."
+msgstr ""
+
+#: src/traits/activities_overview.php:270
+msgid "Display the selected blogs in the global view."
+msgstr ""
+
+#: src/traits/activities_overview.php:291
+msgid "Display the selected hooks."
+msgstr ""
+
+#: src/traits/activities_overview.php:355
+msgid "Display the selected users."
+msgstr ""
+
+#: src/traits/activities_overview.php:356
+msgid "Display users"
+msgstr ""
+
+#: src/traits/activities_overview.php:308
+msgid "Do not display the selected IP addresses."
+msgstr ""
+
+#: src/traits/activities_overview.php:262
+msgid "Do not display the selected blogs in the global view."
+msgstr ""
+
+#: src/traits/activities_overview.php:283
+msgid "Do not display the selected hooks."
+msgstr ""
+
+#: src/traits/activities_overview.php:347
+msgid "Do not display the selected users."
+msgstr ""
+
+#. Activity text: A new user was registered
+#. Activity text: A user was deleted. This is his e-mail address.
+#: src/hooks/user_register.php:30 src/hooks/delete_user.php:38
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#. Hook description
+#: src/hooks/edit_term.php:17
+msgid "Editing taxonomy terms. This is called before the terms are modified. Does not store any data."
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:54
+msgid "Enable debugging"
+msgstr ""
+
+#. Ajax filter settings popup: Error
+#: src/traits/activities_overview.php:29
+msgid "Error saving your filter settings"
+msgstr ""
+
+#. Hook description
+#: src/hooks/wp_login_failed.php:17
+msgid "Failed to log in due to non-existent user or bad password."
+msgstr ""
+
+#. Hook description
+#: src/hooks/wp_login_failed_without_password.php:17
+msgid "Failed to log in due to non-existent user or bad password. Does not display the password."
+msgstr ""
+
+#: src/traits/activities_overview.php:534
+msgid "Filters"
+msgstr ""
+
+#: src/sdk/wordpress/updater/edd.php:93
+msgid "Force new version check"
+msgstr ""
+
+#: src/sdk/wordpress/updater/edd.php:66
+msgid "Get link to latest version as zip"
+msgstr ""
+
+#: src/traits/activities_overview.php:523
+msgid "Global activity"
+msgstr ""
+
+#: src/actions/log_hook.php:146
+msgid "Guest"
+msgstr ""
+
+#: src/sdk/form.php:398
+msgid "HH"
+msgstr ""
+
+#: src/traits/activities_overview.php:309
+msgid "Hide IPs"
+msgstr ""
+
+#: src/traits/activities_overview.php:263
+msgid "Hide blogs"
+msgstr ""
+
+#: src/traits/activities_overview.php:284
+msgid "Hide hooks"
+msgstr ""
+
+#: src/traits/activities_overview.php:348
+msgid "Hide users"
+msgstr ""
+
+#. Table column name
+#: src/traits/activities.php:84 src/traits/admin_menu.php:102
+msgid "Hook"
+msgstr ""
+
+#. Filter the shown hooks in the overview table filter settings.
+#: src/traits/activities_overview.php:57
+#: src/traits/activities_overview.php:280
+msgid "Hooks"
+msgstr ""
+
+#: src/traits/admin_menu.php:216
+#, php-format
+msgid "How many activities to store in the database. There are currently %s activities stored."
+msgstr ""
+
+#: src/traits/admin_menu.php:244
+msgid "How many items to show per table page."
+msgstr ""
+
+#: src/traits/admin_menu.php:236
+msgid "How many minutes to wait before periodically refreshing the activities overview table. Set to 0 to disable."
+msgstr ""
+
+#. Table column name
+#: src/traits/activities.php:88
+msgid "IP address"
+msgstr ""
+
+#: src/traits/activities_overview.php:301
+msgid "IP addresses"
+msgstr ""
+
+#: src/traits/activities_overview.php:446
+msgid "IP or integer"
+msgstr ""
+
+#: src/traits/activities_overview.php:443
+msgid "IP tools"
+msgstr ""
+
+#. Filter the shown IP addresses in the overview table filter settings.
+#: src/traits/activities_overview.php:62
+msgid "IPs"
+msgstr ""
+
+#: src/sdk/form.php:917
+msgid "Invalid date"
+msgstr ""
+
+#: src/sdk/form.php:900
+msgid "Invalid email address"
+msgstr ""
+
+#: src/traits/admin_menu.php:245
+msgid "Items per page"
+msgstr ""
+
+#: src/sdk/form.php:405
+msgid "Latest valid date"
+msgstr ""
+
+#: src/sdk/wordpress/updater/edd.php:74
+msgid "License key"
+msgstr ""
+
+#: src/traits/activities_overview.php:530
+msgid "Local activity"
+msgstr ""
+
+#: src/traits/activities_overview.php:539
+#: src/traits/activities_overview.php:540
+msgid "Logged hooks"
+msgstr ""
+
+#. Login failed for user admin
+#: src/hooks/wp_login_failed.php:37
+#, php-format
+msgid "Login failed for %s"
+msgstr ""
+
+#. Activity text: An unknown user failed to log in.
+#: src/hooks/wp_login_failed.php:32
+#, php-format
+msgid "Login failed: %s"
+msgstr ""
+
+#. Activity text: This user logged in.
+#: src/hooks/wp_login.php:32
+#, php-format
+msgid "Login: %s"
+msgstr ""
+
+#: src/sdk/form.php:396 src/sdk/form.php:399
+msgid "MM"
+msgstr ""
+
+#: src/sdk/form.php:391
+msgid "Minimum length"
+msgstr ""
+
+#. A hook category
+#: src/hooks/categories/Misc.php:14
+msgid "Miscellaneous"
+msgstr ""
+
+#. Ajax filter settings popup: Heading when editing the settings
+#: src/traits/activities_overview.php:31
+msgid "Modify the filter"
+msgstr ""
+
+#. Activity text: A user was deleted. This is his name.
+#: src/hooks/delete_user.php:32
+#, php-format
+msgid "Name: %s"
+msgstr ""
+
+#: src/sdk/wordpress/plugin_pack/plugin_pack.php:113
+msgid "No action selected."
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:84
+#, php-format
+msgid "Only show debugging info to specific IP addresses. Use spaces between IPs. You can also specify part of an IP address. Your address is %s"
+msgstr ""
+
+#: src/traits/activities_overview.php:493
+#, php-format
+msgid "Output from dig: %s"
+msgstr ""
+
+#. Activity text: A page was viewed.
+#: src/hooks/wp_head.php:29
+#, php-format
+msgid "Page viewed: <a href=\"%s\">%s</a>"
+msgstr ""
+
+#. A hook category
+#: src/hooks/categories/Page_Views.php:14
+msgid "Page_Views"
+msgstr ""
+
+#. Activity text: The user requested a password reset link.
+#: src/hooks/retrieve_password.php:26
+msgid "Password reset requested."
+msgstr ""
+
+#. Activity text: A user's password was reset.
+#: src/hooks/password_reset.php:25
+msgid "Password reset."
+msgstr ""
+
+#. Activity text: A user failed to log in.
+#: src/hooks/wp_login_failed.php:47
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: src/traits/plugin_pack.php:17
+msgid "Plainview Activity Monitor Plugin Pack info"
+msgstr ""
+
+#: src/sdk/form2/inputs/radios.php:52
+#: src/sdk/form2/inputs/traits/validation.php:182
+#, php-format
+msgid "Please fill in %s."
+msgstr ""
+
+#. Ajax filter settings popup
+#: src/traits/activities_overview.php:33
+msgid "Please wait while the dialog loads..."
+msgstr ""
+
+#. A hook category
+#: src/hooks/categories/Plugins.php:14
+msgid "Plugins"
+msgstr ""
+
+#. Activity text: Post "Hello": Updated
+#: src/hooks/transition_post_status.php:23
+#, php-format
+msgid "Post %s: %s"
+msgstr ""
+
+#. Activity text: A post was deleted.
+#: src/hooks/delete_post.php:26
+#, php-format
+msgid "Post deleted: %s"
+msgstr ""
+
+#. A hook category
+#: src/hooks/categories/Posts.php:14
+msgid "Posts"
+msgstr ""
+
+#: src/sdk/wordpress/updater/edd.php:87
+msgid "Refresh license status"
+msgstr ""
+
+#: src/sdk/form.php:326
+msgid "Required field"
+msgstr ""
+
+#: src/sdk/form.php:400
+msgid "SS"
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:63
+msgid "Save debug to file"
+msgstr ""
+
+#: src/traits/admin_menu.php:254
+msgid "Save settings"
+msgstr ""
+
+#: src/traits/activities_overview.php:365
+msgid "Save your filter settings"
+msgstr ""
+
+#. Ajax filter settings popup: Saving setting
+#: src/traits/activities_overview.php:35
+msgid "Saving..."
+msgstr ""
+
+#: src/traits/admin_menu.php:62
+msgid "Select the actions you wish to store in the database. All the below actions, whether they are stored or not, are detectable and usable by Activity Monitor plugins."
+msgstr ""
+
+#: src/traits/activities_overview.php:60
+msgid "Select which IPs you wish to view in the table and in the graph."
+msgstr ""
+
+#: src/traits/activities_overview.php:45
+msgid "Select which blogs you wish to view in the table and in the graph."
+msgstr ""
+
+#: src/traits/activities_overview.php:50
+msgid "Select which columns you wish to view in the table and in the graph."
+msgstr ""
+
+#: src/traits/activities_overview.php:55
+msgid "Select which hooks you wish to view in the table and in the graph."
+msgstr ""
+
+#: src/traits/activities_overview.php:65
+msgid "Select which users you wish to view in the table and in the graph."
+msgstr ""
+
+#: src/traits/activities_overview.php:545
+msgid "Settings"
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:59
+msgid "Show debug in the browser"
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:53
+msgid "Show debugging information in various places."
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:58
+msgid "Show the debugging information in the browser."
+msgstr ""
+
+#: src/sdk/wordpress/base.php:443
+msgid "Super admin"
+msgstr ""
+
+#: src/traits/activities_overview.php:222
+msgid "Table columns"
+msgstr ""
+
+#. A hook category
+#: src/hooks/categories/Terms.php:14
+msgid "Taxonomy terms"
+msgstr ""
+
+#: src/traits/activities_overview.php:485
+#, php-format
+msgid "The IP address %s resolves to <strong>%s</strong>."
+msgstr ""
+
+#: src/traits/activities_overview.php:479
+#, php-format
+msgid "The IP address of the integer %s is <strong>%s</strong>."
+msgstr ""
+
+#: src/sdk/wordpress/traits/debug.php:73
+#, php-format
+msgid "The debug data will be saved to the file %s. This link is distributable."
+msgstr ""
+
+#: src/sdk/form2/inputs/email.php:29
+#, php-format
+msgid "The e-mail address in %s is not valid!"
+msgstr ""
+
+#: src/traits/activities_overview.php:477
+#, php-format
+msgid "The integer value of this IP address %s is <strong>%s</strong>."
+msgstr ""
+
+#: src/sdk/wordpress/updater/edd.php:149
+#, php-format
+msgid "The latest version of the plugin can be downloaded from <a href=\"%s\">here</a>."
+msgstr ""
+
+#: src/traits/admin_menu.php:133
+msgid "The list of logged hooks has been saved."
+msgstr ""
+
+#: src/sdk/wordpress/base.php:245
+#, php-format
+msgid "The plugin and all associated settings and database tables have been removed. Please %sfollow this link to complete the uninstallation procedure%s."
+msgstr ""
+
+#: src/sdk/wordpress/plugin_pack/plugin_pack.php:123
+msgid "The selected plugin(s) have been activated."
+msgstr ""
+
+#: src/sdk/wordpress/plugin_pack/plugin_pack.php:128
+msgid "The selected plugin(s) have been deactivated."
+msgstr ""
+
+#: src/sdk/wordpress/plugin_pack/plugin_pack.php:134
+msgid "The selected plugin(s) have been uninstalled."
+msgstr ""
+
+#: src/traits/activities_overview.php:217
+msgid "The settings below will display only the activities that match the filter settings. The settings are saved per-user in the Wordpress user meta table."
+msgstr ""
+
+#: src/traits/admin_menu.php:278
+msgid "The settings have been saved."
+msgstr ""
+
+#: src/sdk/form2/inputs/traits/maxlength.php:31
+#, php-format
+msgid "The text in %s is too long!"
+msgstr ""
+
+#: src/sdk/form2/inputs/traits/minlength.php:42
+#, php-format
+msgid "The text in %s is too short!"
+msgstr ""
+
+#. Hook description
+#: src/hooks/switch_theme.php:17
+msgid "The theme was switched."
+msgstr ""
+
+#. Hook description
+#: src/hooks/retrieve_password.php:17
+msgid "The user requested a password reset link."
+msgstr ""
+
+#: src/sdk/form2/inputs/traits/max.php:34
+#, php-format
+msgid "The value in %s (%s) is larger than the allowed maximum of %s."
+msgstr ""
+
+#: src/sdk/form2/inputs/traits/min.php:34
+#, php-format
+msgid "The value in %s (%s) is smaller than the allowed minimum of %s."
+msgstr ""
+
+#: src/sdk/form.php:385
+msgid "The value must be larger than or equal to"
+msgstr ""
+
+#: src/sdk/form.php:387
+msgid "The value must be smaller or equal to"
+msgstr ""
+
+#. A hook category
+#: src/hooks/categories/Theme.php:14
+msgid "Theme"
+msgstr ""
+
+#. Activity text: The the was switched to NEW
+#: src/hooks/switch_theme.php:31
+#, php-format
+msgid "Theme switched to %s"
+msgstr ""
+
+#: src/sdk/wordpress/form2/form.php:142
+msgid "This input is required."
+msgstr ""
+
+#: src/sdk/wordpress/base.php:246
+msgid "This link will take you to the index page"
+msgstr ""
+
+#: src/sdk/wordpress/base.php:221
+msgid "This page will remove all the plugin tables and settings from the database and then deactivate the plugin."
+msgstr ""
+
+#: src/traits/admin_menu.php:224
+#, php-format
+msgid "This value is dependent on how much activity there is on your blog and how much history you wish to keep. Updating this value cleans the database. There is also a 5% chance that the database will be cleaned up when a new activity is logged."
+msgstr ""
+
+#. Table column name
+#: src/traits/activities.php:80
+msgid "Timestamp"
+msgstr ""
+
+#: src/traits/activities_overview.php:549
+msgid "Tools"
+msgstr ""
+
+#: src/hooks/hook.php:84
+msgid "Uncategorized"
+msgstr ""
+
+#: src/traits/activities_overview.php:554
+msgid "Uninstall"
+msgstr ""
+
+#: src/sdk/wordpress/plugin_pack/plugin_pack.php:102
+#: src/sdk/wordpress/base.php:228
+msgid "Uninstall plugin"
+msgstr ""
+
+#. Table column name
+#: src/traits/activities.php:86
+msgid "User"
+msgstr ""
+
+#. Activity text: A user logged out.
+#: src/hooks/wp_logout.php:23
+#, php-format
+msgid "User %s logged out."
+msgstr ""
+
+#. Activity text: A user logged in with this user agent.
+#. Activity text: A user failed to log in.
+#: src/hooks/wp_login.php:36 src/hooks/wp_login_failed.php:52
+#, php-format
+msgid "User agent: %s"
+msgstr ""
+
+#. Activity text: A user was deleted. This is his login name.
+#: src/hooks/delete_user.php:26
+#, php-format
+msgid "User deleted: %s"
+msgstr ""
+
+#. Activity text: A new user was registered
+#: src/hooks/user_register.php:26
+#, php-format
+msgid "User registered: %s"
+msgstr ""
+
+#. Filter the shown users in the overview table filter settings.
+#. A hook category
+#: src/traits/activities_overview.php:67
+#: src/traits/activities_overview.php:344 src/hooks/categories/Users.php:14
+msgid "Users"
+msgstr ""
+
+#: src/sdk/form.php:389
+msgid "Valid values"
+msgstr ""
+
+#: src/traits/admin_menu.php:103
+msgid "Vendor"
+msgstr ""
+
+#. Activity text: An admin page was viewed.
+#: src/hooks/admin_head.php:28
+#, php-format
+msgid "Viewed admin page <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: src/sdk/form.php:401
+msgid "YYYY"
+msgstr ""
+
+#: src/sdk/wordpress/base.php:224
+msgid "Yes, I'm sure I want to remove all the plugin tables and settings."
+msgstr ""
+
+#. Count of active filters.
+#: src/traits/activities_overview.php:196
+#, php-format
+msgid "You have %s active filters."
+msgstr ""
+
+#: src/traits/activities_overview.php:193
+msgid "You have 1 active filter."
+msgstr ""
+
+#: src/sdk/wordpress/base.php:236
+msgid "You have to check the checkbox in order to uninstall the plugin."
+msgstr ""
+
+#: src/traits/activities_overview.php:385
+msgid "Your filter settings have been cleared. Revisit the page to see that the filters are cleared."
+msgstr ""
+
+#: src/traits/activities_overview.php:397
+msgid "Your filter settings have been saved."
+msgstr ""
+
+#. Activity text for comments: Comment approved
+#: src/hooks/wp_set_comment_status.php:64
+msgid "approved"
+msgstr ""
+
+#: src/sdk/form.php:391
+msgid "characters"
+msgstr ""
+
+#: src/sdk/form.php:927
+msgid "characters long"
+msgstr ""
+
+#. Activity text for comments: Comment deleted
+#: src/hooks/wp_set_comment_status.php:60
+msgid "deleted"
+msgstr ""
+
+#. Activity text for comments: Comment held back
+#: src/hooks/wp_set_comment_status.php:48
+msgid "held back"
+msgstr ""
+
+#: src/sdk/form.php:957
+msgid "may not be empty"
+msgstr ""
+
+#: src/sdk/form.php:951
+msgid "may not be larger than"
+msgstr ""
+
+#: src/sdk/form.php:939
+msgid "may not be smaller than"
+msgstr ""
+
+#: src/sdk/form.php:927
+msgid "must be at least"
+msgstr ""
+
+#: src/sdk/wordpress/base.php:1883
+msgid "no"
+msgstr ""
+
+#. You are currently NOT in debug mode.
+#: src/sdk/wordpress/traits/debug.php:47
+msgid "not"
+msgstr ""
+
+#. Activity text: A post was published
+#: src/hooks/draft_to_publish.php:21
+msgid "published"
+msgstr ""
+
+#. Activity text for comments: Comment reapproved
+#: src/hooks/wp_set_comment_status.php:44
+msgid "reapproved"
+msgstr ""
+
+#. Activity text for comments: Comment reset
+#: src/hooks/wp_set_comment_status.php:40
+msgid "reset"
+msgstr ""
+
+#. Activity text: A post was restored
+#: src/hooks/trash_to_publish.php:21
+msgid "restored"
+msgstr ""
+
+#. Activity text for comments: Comment spammed
+#: src/hooks/wp_set_comment_status.php:52
+msgid "spammed"
+msgstr ""
+
+#: src/sdk/form.php:389
+msgid "to"
+msgstr ""
+
+#. Activity text: A post was trashed.
+#. Activity text for comments: Comment trashed
+#: src/hooks/publish_to_trash.php:21 src/hooks/wp_set_comment_status.php:56
+msgid "trashed"
+msgstr ""
+
+#. Activity text: A post was updated.
+#: src/hooks/publish_to_publish.php:21
+msgid "updated"
+msgstr ""
+
+#: src/sdk/wordpress/base.php:1883
+msgid "yes"
+msgstr ""

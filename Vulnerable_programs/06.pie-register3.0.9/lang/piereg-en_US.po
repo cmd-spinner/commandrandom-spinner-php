@@ -1,0 +1,5795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pie Register\n"
+"POT-Creation-Date: 2018-01-19 14:28-0800\n"
+"PO-Revision-Date: 2018-02-01 12:06+0500\n"
+"Last-Translator: Baqar <baqarsoft@gmail.com>\n"
+"Language-Team: Baqar\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/api/class-wc-api-manager-menu.php:23
+msgid "License Information"
+msgstr "License Information"
+
+#: classes/api/class-wc-api-manager-menu.php:24 menus/PieLicenseKeyPage.php:37
+#: menus/PieRegHelp.php:170
+msgid "License Key"
+msgstr "License Key"
+
+#: classes/api/class-wc-api-manager-menu.php:25
+msgid "License email"
+msgstr "License email"
+
+#: classes/api/class-wc-api-manager-menu.php:29
+msgid "Plugin License Deactivation"
+msgstr "Plugin License Deactivation"
+
+#: classes/api/class-wc-api-manager-menu.php:30
+msgid "Deactivate Plugin License"
+msgstr "Deactivate Plugin License"
+
+#: classes/api/class-wc-api-manager-menu.php:110
+msgid "Plugin activated"
+msgstr "Plugin activated"
+
+#: classes/api/class-wc-api-manager-menu.php:121
+#: classes/api/class-wc-api-manager-menu.php:231
+#: classes/api/class-wc-api-manager-menu.php:362
+#: classes/api/class-wc-api-manager-menu.php:397
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr "Connection failed to the License Key API server. Try again later."
+
+#: classes/api/class-wc-api-manager-menu.php:128
+#: classes/api/class-wc-api-manager-menu.php:238
+msgid " "
+msgstr ""
+
+#: classes/api/class-wc-api-manager-menu.php:134
+#: classes/api/class-wc-api-manager-menu.php:140
+#: classes/api/class-wc-api-manager-menu.php:146
+#: classes/api/class-wc-api-manager-menu.php:152
+#: classes/api/class-wc-api-manager-menu.php:164
+#: classes/api/class-wc-api-manager-menu.php:242
+#: classes/api/class-wc-api-manager-menu.php:247
+#: classes/api/class-wc-api-manager-menu.php:251
+#: classes/api/class-wc-api-manager-menu.php:255
+#: classes/api/class-wc-api-manager-menu.php:263
+#: classes/api/class-wc-api-manager-menu.php:267
+msgid ". "
+msgstr ". "
+
+#: classes/api/class-wc-api-manager-menu.php:219
+msgid "Addon activated"
+msgstr "Addon activated"
+
+#: classes/api/class-wc-api-manager-menu.php:307
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+
+#: classes/api/class-wc-api-manager-menu.php:357
+msgid "Addon license deactivated."
+msgstr "Addon license deactivated."
+
+#: classes/api/class-wc-api-manager-menu.php:392
+msgid "Plugin license deactivated."
+msgstr "Plugin license deactivated."
+
+#: classes/api/class-wc-api-manager-menu.php:416
+msgid "Deactivates plugin license so it can be used on another blog."
+msgstr "Deactivates plugin license so it can be used on another blog."
+
+#: classes/api/class-wc-api-manager-menu.php:433
+msgid "Prevent Comment Spam"
+msgstr "Prevent Comment Spam"
+
+#: classes/api/class-wc-api-manager-menu.php:435
+msgid "Simple Comments"
+msgstr "Simple Comments"
+
+#: classes/api/class-wc-plugin-update.php:399
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: classes/api/class-wc-plugin-update.php:414
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: classes/api/class-wc-plugin-update.php:429
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+
+#: classes/api/class-wc-plugin-update.php:444
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: classes/api/class-wc-plugin-update.php:459
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+
+#: classes/api/class-wc-plugin-update.php:474
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+
+#: classes/api/class-wc-plugin-update.php:489
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+
+#: classes/api/class-wc-plugin-update.php:504
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: classes/api/class-wc-plugin-update.php:519
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+
+#: classes/api/class-wc-plugin-update.php:534
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: classes/api/class-wc-plugin-update.php:549
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+
+#: classes/api/class-wc-plugin-update.php:564
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+
+#: classes/base.php:154 dash_widget_stats.php:71
+msgid "Login"
+msgstr "Login"
+
+#: classes/base.php:167 classes/base.php:577 dash_widget_stats.php:77
+msgid "Registration"
+msgstr "Registration"
+
+#: classes/base.php:181 dash_widget_stats.php:74
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+#: classes/base.php:194
+msgid "Profile"
+msgstr "Profile"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Albania"
+msgstr "Albania"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Algeria"
+msgstr "Algeria"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "American Samoa"
+msgstr "American Samoa"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Andorra"
+msgstr "Andorra"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Angola"
+msgstr "Angola"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Antigua and Barbuda"
+msgstr "Antigua and Barbuda"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Argentina"
+msgstr "Argentina"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Armenia"
+msgstr "Armenia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Australia"
+msgstr "Australia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Austria"
+msgstr "Austria"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Barbados"
+msgstr "Barbados"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Belarus"
+msgstr "Belarus"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Belgium"
+msgstr "Belgium"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Belize"
+msgstr "Belize"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Benin"
+msgstr "Benin"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia and Herzegovina"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Botswana"
+msgstr "Botswana"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Brazil"
+msgstr "Brazil"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Brunei"
+msgstr "Brunei"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Burundi"
+msgstr "Burundi"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Cambodia"
+msgstr "Cambodia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Cameroon"
+msgstr "Cameroon"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Canada"
+msgstr "Canada"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Central African Republic"
+msgstr "Central African Republic"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Chad"
+msgstr "Chad"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Chile"
+msgstr "Chile"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "China"
+msgstr "China"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Colombia"
+msgstr "Colombia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Comoros"
+msgstr "Comoros"
+
+#: classes/base.php:207
+msgid "Congo"
+msgstr "Congo"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: classes/base.php:207
+msgid "Côte d'Ivoire"
+msgstr "Côte d'Ivoire"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Croatia"
+msgstr "Croatia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Cuba"
+msgstr "Cuba"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Cyprus"
+msgstr "Cyprus"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Czech Republic"
+msgstr "Czech Republic"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Denmark"
+msgstr "Denmark"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Dominica"
+msgstr "Dominica"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Dominican Republic"
+msgstr "Dominican Republic"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "East Timor"
+msgstr "East Timor"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Egypt"
+msgstr "Egypt"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Equatorial Guinea"
+msgstr "Equatorial Guinea"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Estonia"
+msgstr "Estonia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Fiji"
+msgstr "Fiji"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Finland"
+msgstr "Finland"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "France"
+msgstr "France"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Gabon"
+msgstr "Gabon"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Gambia"
+msgstr "Gambia"
+
+#: classes/base.php:207 classes/base.php:211 classes/base.php:916
+msgid "Georgia"
+msgstr "Georgia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Germany"
+msgstr "Germany"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Ghana"
+msgstr "Ghana"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Greece"
+msgstr "Greece"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Greenland"
+msgstr "Greenland"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Grenada"
+msgstr "Grenada"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Guam"
+msgstr "Guam"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Guinea"
+msgstr "Guinea"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Guyana"
+msgstr "Guyana"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Haiti"
+msgstr "Haiti"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Honduras"
+msgstr "Honduras"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Hungary"
+msgstr "Hungary"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Iceland"
+msgstr "Iceland"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "India"
+msgstr "India"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Iran"
+msgstr "Iran"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Iraq"
+msgstr "Iraq"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Ireland"
+msgstr "Ireland"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Israel"
+msgstr "Israel"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Italy"
+msgstr "Italy"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Japan"
+msgstr "Japan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Jordan"
+msgstr "Jordan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Kenya"
+msgstr "Kenya"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "North Korea"
+msgstr "North Korea"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "South Korea"
+msgstr "South Korea"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Laos"
+msgstr "Laos"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Latvia"
+msgstr "Latvia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Lebanon"
+msgstr "Lebanon"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Liberia"
+msgstr "Liberia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Libya"
+msgstr "Libya"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Lithuania"
+msgstr "Lithuania"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Macedonia"
+msgstr "Macedonia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Malawi"
+msgstr "Malawi"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Maldives"
+msgstr "Maldives"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Mali"
+msgstr "Mali"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Malta"
+msgstr "Malta"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Marshall Islands"
+msgstr "Marshall Islands"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Mexico"
+msgstr "Mexico"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Micronesia"
+msgstr "Micronesia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Moldova"
+msgstr "Moldova"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Monaco"
+msgstr "Monaco"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Morocco"
+msgstr "Morocco"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Namibia"
+msgstr "Namibia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Nauru"
+msgstr "Nauru"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Nepal"
+msgstr "Nepal"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Netherlands"
+msgstr "Netherlands"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "New Zealand"
+msgstr "New Zealand"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Niger"
+msgstr "Niger"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Norway"
+msgstr "Norway"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Northern Mariana Islands"
+msgstr "Northern Mariana Islands"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Oman"
+msgstr "Oman"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Palau"
+msgstr "Palau"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Palestine"
+msgstr "Palestine"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Panama"
+msgstr "Panama"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Peru"
+msgstr "Peru"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Philippines"
+msgstr "Philippines"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Poland"
+msgstr "Poland"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Portugal"
+msgstr "Portugal"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Qatar"
+msgstr "Qatar"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Romania"
+msgstr "Romania"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Russia"
+msgstr "Russia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts and Nevis"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent and the Grenadines"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Samoa"
+msgstr "Samoa"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "San Marino"
+msgstr "San Marino"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Sao Tome and Principe"
+msgstr "Sao Tome and Principe"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Senegal"
+msgstr "Senegal"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Serbia and Montenegro"
+msgstr "Serbia and Montenegro"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Singapore"
+msgstr "Singapore"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Solomon Islands"
+msgstr "Solomon Islands"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Somalia"
+msgstr "Somalia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "South Africa"
+msgstr "South Africa"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Spain"
+msgstr "Spain"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Sudan"
+msgstr "Sudan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Sudan, South"
+msgstr "Sudan, South"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Suriname"
+msgstr "Suriname"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Sweden"
+msgstr "Sweden"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Switzerland"
+msgstr "Switzerland"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Syria"
+msgstr "Syria"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Thailand"
+msgstr "Thailand"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Togo"
+msgstr "Togo"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Tonga"
+msgstr "Tonga"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Trinidad and Tobago"
+msgstr "Trinidad and Tobago"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Turkey"
+msgstr "Turkey"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Uganda"
+msgstr "Uganda"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "United States"
+msgstr "United States"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Vatican City"
+msgstr "Vatican City"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Virgin Islands, British"
+msgstr "Virgin Islands, British"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Virgin Islands, U.S."
+msgstr "Virgin Islands, U.S."
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Yemen"
+msgstr "Yemen"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Zambia"
+msgstr "Zambia"
+
+#: classes/base.php:207 classes/base.php:916
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Alabama"
+msgstr "Alabama"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Alaska"
+msgstr "Alaska"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Arizona"
+msgstr "Arizona"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Arkansas"
+msgstr "Arkansas"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "California"
+msgstr "California"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Colorado"
+msgstr "Colorado"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Connecticut"
+msgstr "Connecticut"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Delaware"
+msgstr "Delaware"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "District of Columbia"
+msgstr "District of Columbia"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Florida"
+msgstr "Florida"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Hawaii"
+msgstr "Hawaii"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Idaho"
+msgstr "Idaho"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Illinois"
+msgstr "Illinois"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Indiana"
+msgstr "Indiana"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Iowa"
+msgstr "Iowa"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Kansas"
+msgstr "Kansas"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Kentucky"
+msgstr "Kentucky"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Louisiana"
+msgstr "Louisiana"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Maine"
+msgstr "Maine"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Maryland"
+msgstr "Maryland"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Michigan"
+msgstr "Michigan"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Minnesota"
+msgstr "Minnesota"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Mississippi"
+msgstr "Mississippi"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Missouri"
+msgstr "Missouri"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Montana"
+msgstr "Montana"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Nebraska"
+msgstr "Nebraska"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Nevada"
+msgstr "Nevada"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "New Jersey"
+msgstr "New Jersey"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "New Mexico"
+msgstr "New Mexico"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "New York"
+msgstr "New York"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "North Carolina"
+msgstr "North Carolina"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "North Dakota"
+msgstr "North Dakota"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Ohio"
+msgstr "Ohio"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Oregon"
+msgstr "Oregon"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Pennsylvania"
+msgstr "Pennsylvania"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Rhode Island"
+msgstr "Rhode Island"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "South Carolina"
+msgstr "South Carolina"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "South Dakota"
+msgstr "South Dakota"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Tennessee"
+msgstr "Tennessee"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Texas"
+msgstr "Texas"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Utah"
+msgstr "Utah"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Vermont"
+msgstr "Vermont"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Virginia"
+msgstr "Virginia"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Washington"
+msgstr "Washington"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "West Virginia"
+msgstr "West Virginia"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Wyoming"
+msgstr "Wyoming"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Armed Forces Americas"
+msgstr "Armed Forces Americas"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Armed Forces Europe"
+msgstr "Armed Forces Europe"
+
+#: classes/base.php:211 classes/base.php:916
+msgid "Armed Forces Pacific"
+msgstr "Armed Forces Pacific"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Alberta"
+msgstr "Alberta"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "British Columbia"
+msgstr "British Columbia"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Manitoba"
+msgstr "Manitoba"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "New Brunswick"
+msgstr "New Brunswick"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Newfoundland and Labrador"
+msgstr "Newfoundland and Labrador"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Northwest Territories"
+msgstr "Northwest Territories"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Nova Scotia"
+msgstr "Nova Scotia"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Nunavut"
+msgstr "Nunavut"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Ontario"
+msgstr "Ontario"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Prince Edward Island"
+msgstr "Prince Edward Island"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Quebec"
+msgstr "Quebec"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Saskatchewan"
+msgstr "Saskatchewan"
+
+#: classes/base.php:215 classes/base.php:916
+msgid "Yukon"
+msgstr "Yukon"
+
+#: classes/base.php:221 classes/base.php:1516
+msgid "Your account is ready."
+msgstr "Your account is ready."
+
+#: classes/base.php:222 classes/base.php:1517
+msgid "Your account is being processed."
+msgstr "Your account is being processed."
+
+#: classes/base.php:223 classes/base.php:1518
+msgid "Email verification."
+msgstr "Email verification."
+
+#: classes/base.php:224
+msgid "Email address change verification."
+msgstr "Email address change verification."
+
+#: classes/base.php:225
+msgid "Current Email address change verification."
+msgstr "Current Email address change verification."
+
+#: classes/base.php:226 classes/base.php:1519
+msgid "Your account has been activated."
+msgstr "Your account has been activated."
+
+#: classes/base.php:227 classes/base.php:1525
+msgid "Password Reset Request."
+msgstr "Password Reset Request."
+
+#: classes/base.php:228 classes/base.php:1520
+msgid "Overdue Payment."
+msgstr "Overdue Payment."
+
+#: classes/base.php:229 classes/base.php:1521
+msgid "Payment Processed."
+msgstr "Payment Processed."
+
+#: classes/base.php:230 classes/base.php:235 classes/base.php:1522
+msgid "Payment Failed."
+msgstr "Payment Failed."
+
+#: classes/base.php:231 classes/base.php:1523
+msgid "Payment Pending."
+msgstr "Payment Pending."
+
+#: classes/base.php:232 classes/base.php:1524
+msgid "Email Verification Reminder."
+msgstr "Email Verification Reminder."
+
+#: classes/base.php:233
+msgid "Final Email Verification Reminder."
+msgstr "Final Email Verification Reminder."
+
+#: classes/base.php:234
+msgid "User Temporary Blocked Notice"
+msgstr "User Temporary Blocked Notice"
+
+#: classes/base.php:236
+msgid "Final Reminder - Payment Failed."
+msgstr "Final Reminder - Payment Failed."
+
+#: classes/base.php:248 classes/base.php:1546
+#: menus/PieRegPaymentGateway.php:123 pie-register.php:4513
+msgid "Payment was successful."
+msgstr "Payment was successful."
+
+#: classes/base.php:249 classes/base.php:1547
+#: menus/PieRegPaymentGateway.php:128 pie-register.php:4516
+msgid "Payment failed."
+msgstr "Payment failed."
+
+#: classes/base.php:250 classes/base.php:1548
+#: menus/PieRegPaymentGateway.php:133 pie-register.php:4519
+msgid "Account needs to be activated."
+msgstr "Account needs to be activated."
+
+#: classes/base.php:251 classes/base.php:1549
+#: menus/PieRegPaymentGateway.php:138 pie-register.php:4523
+msgid "Account is already active."
+msgstr "Account is already active."
+
+#: classes/base.php:263 classes/base.php:1560
+msgid "New User Registration"
+msgstr "New User Registration"
+
+#: classes/base.php:383
+msgid "Now, You are temporary block at"
+msgstr "Now, You are temporary block at"
+
+#: classes/base.php:394 menus/settings/PieRegSecurityAdvance.php:8
+#: pie-register.php:1698
+msgid "Registration Form"
+msgstr "Registration Form"
+
+#: classes/base.php:395
+msgid "Please fill in the form below to register."
+msgstr "Please fill in the form below to register."
+
+#: classes/base.php:402 menus/PieRegEditForm.php:623
+#: menus/PieRegImportExport.php:201
+#: pie_register_template/login/login_form_template.php:17
+msgid "Username"
+msgstr "Username"
+
+#: classes/base.php:414 classes/base.php:812 menus/PieRegEditForm.php:367
+msgid "Email"
+msgstr "Email"
+
+#: classes/base.php:415 classes/base.php:847
+msgid "Confirm Email"
+msgstr "Confirm Email"
+
+#: classes/base.php:428 pie_register_template/login/login_form_template.php:28
+#: renew_account.php:137
+msgid "Password"
+msgstr "Password"
+
+#: classes/base.php:429 pie-register.php:4735
+#: pie_register_template/registration/registration_form_template.php:177
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: classes/base.php:449 menus/PieRegImportExport.php:207
+msgid "First Name"
+msgstr "First Name"
+
+#: classes/base.php:450 menus/PieRegImportExport.php:213 pie-register.php:5011
+#: pie_register_template/registration/registration_form_template.php:300
+msgid "Last Name"
+msgstr "Last Name"
+
+#: classes/base.php:459 classes/base.php:812 menus/PieRegEditForm.php:629
+#: menus/PieRegImportExport.php:237
+msgid "Website"
+msgstr "Website"
+
+#: classes/base.php:467 menus/PieRegEditForm.php:632
+msgid "AIM"
+msgstr "AIM"
+
+#: classes/base.php:475 menus/PieRegEditForm.php:635
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: classes/base.php:483 menus/PieRegEditForm.php:638
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: classes/base.php:491 menus/PieRegEditForm.php:641
+msgid "About Yourself"
+msgstr "About Yourself"
+
+#: classes/base.php:541
+msgid "Thank you for your registration"
+msgstr "Thank you for your registration"
+
+#: classes/base.php:812 classes/base.php:820 classes/base.php:824
+#: classes/base.php:826 classes/base.php:828 classes/base.php:831
+#: classes/base.php:834 classes/base.php:837 classes/base.php:840
+#: classes/base.php:842 classes/base.php:847 classes/base.php:852
+#: classes/base.php:862 classes/base.php:871 classes/base.php:877
+#: classes/base.php:885 classes/base.php:887 classes/base.php:889
+#: classes/base.php:891 classes/base.php:897 classes/base.php:906
+#: classes/base.php:910 classes/base.php:912 classes/base.php:914
+#: classes/base.php:916 classes/base.php:922 classes/base.php:926
+#: classes/base.php:929 classes/base.php:931 classes/base.php:942
+#: classes/base.php:952 classes/base.php:954 classes/base.php:956
+#: classes/base.php:958 classes/base.php:983 menus/PieRegEditForm.php:66
+msgid "Label"
+msgstr "Label"
+
+#: classes/base.php:812 classes/base.php:820 classes/base.php:842
+#: classes/base.php:847 classes/base.php:852 classes/base.php:862
+#: classes/base.php:871 classes/base.php:877 classes/base.php:885
+#: classes/base.php:887 classes/base.php:897 classes/base.php:906
+#: classes/base.php:910 classes/base.php:912 classes/base.php:914
+#: classes/base.php:916 classes/base.php:929 classes/base.php:931
+#: classes/base.php:942 classes/base.php:952 classes/base.php:954
+#: classes/base.php:958 classes/base.php:983
+#: classes/piereg_walker-nav-menu.php:108 menus/PieRegEditForm.php:72
+#: piereg_walker-nav-menu.php:230
+msgid "Description"
+msgstr "Description"
+
+#: classes/base.php:812
+msgid "Length"
+msgstr "Length"
+
+#: classes/base.php:812 classes/base.php:852 classes/base.php:862
+#: classes/base.php:871 classes/base.php:877 classes/base.php:885
+#: classes/base.php:887 classes/base.php:897 classes/base.php:906
+#: classes/base.php:910 classes/base.php:912 classes/base.php:914
+#: classes/base.php:916 classes/base.php:931 classes/base.php:942
+#: classes/base.php:952 classes/base.php:954 classes/base.php:958
+msgid "Rules"
+msgstr "Rules"
+
+#: classes/base.php:812 classes/base.php:852 classes/base.php:862
+#: classes/base.php:871 classes/base.php:877 classes/base.php:885
+#: classes/base.php:887 classes/base.php:897 classes/base.php:906
+#: classes/base.php:910 classes/base.php:912 classes/base.php:914
+#: classes/base.php:916 classes/base.php:931 classes/base.php:942
+#: classes/base.php:952 classes/base.php:954 classes/base.php:958
+msgid "Required"
+msgstr "Required"
+
+#: classes/base.php:812 classes/base.php:852 classes/base.php:877
+#: classes/base.php:931 classes/base.php:942 classes/base.php:956
+msgid "Default Value"
+msgstr "Default Value"
+
+#: classes/base.php:812 classes/base.php:820 classes/base.php:847
+#: classes/base.php:852 classes/base.php:877 classes/base.php:929
+#: classes/base.php:958
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: classes/base.php:812
+msgid "Validation Rule"
+msgstr "Validation Rule"
+
+#: classes/base.php:812 classes/base.php:862 classes/base.php:871
+msgid "None"
+msgstr "None"
+
+#: classes/base.php:812 menus/PieRegEditForm.php:662
+msgid "Number"
+msgstr "Number"
+
+#: classes/base.php:812
+msgid "Alphanumeric"
+msgstr "Alphanumeric"
+
+#: classes/base.php:812 classes/base.php:931 classes/base.php:942
+msgid "USA Format"
+msgstr "USA Format"
+
+#: classes/base.php:812
+msgid "Phone International"
+msgstr "Phone International"
+
+#: classes/base.php:812 classes/base.php:820 classes/base.php:824
+#: classes/base.php:842 classes/base.php:847 classes/base.php:852
+#: classes/base.php:862 classes/base.php:871 classes/base.php:877
+#: classes/base.php:885 classes/base.php:887 classes/base.php:897
+#: classes/base.php:906 classes/base.php:910 classes/base.php:912
+#: classes/base.php:914 classes/base.php:916 classes/base.php:929
+#: classes/base.php:931 classes/base.php:942 classes/base.php:952
+#: classes/base.php:954 classes/base.php:958 classes/base.php:989
+msgid "Validation Message"
+msgstr "Validation Message"
+
+#: classes/base.php:812 classes/base.php:820 classes/base.php:842
+#: classes/base.php:847 classes/base.php:852 classes/base.php:862
+#: classes/base.php:871 classes/base.php:877 classes/base.php:885
+#: classes/base.php:887 classes/base.php:897 classes/base.php:906
+#: classes/base.php:910 classes/base.php:912 classes/base.php:914
+#: classes/base.php:916 classes/base.php:929 classes/base.php:931
+#: classes/base.php:942 classes/base.php:952 classes/base.php:954
+#: classes/base.php:958 classes/base.php:989 menus/PieRegEditForm.php:78
+msgid "CSS Class Name"
+msgstr "CSS Class Name"
+
+#: classes/base.php:812 classes/base.php:852 classes/base.php:862
+#: classes/base.php:871 classes/base.php:877 classes/base.php:885
+#: classes/base.php:887 classes/base.php:897 classes/base.php:906
+#: classes/base.php:912 classes/base.php:914 classes/base.php:916
+#: classes/base.php:931 classes/base.php:942 classes/base.php:952
+#: classes/base.php:954 classes/base.php:964
+msgid "Show in Profile"
+msgstr "Show in Profile"
+
+#: classes/base.php:812 classes/base.php:816 classes/base.php:842
+#: classes/base.php:852 classes/base.php:856 classes/base.php:862
+#: classes/base.php:866 classes/base.php:871 classes/base.php:877
+#: classes/base.php:881 classes/base.php:885 classes/base.php:887
+#: classes/base.php:897 classes/base.php:901 classes/base.php:906
+#: classes/base.php:912 classes/base.php:914 classes/base.php:916
+#: classes/base.php:931 classes/base.php:935 classes/base.php:942
+#: classes/base.php:945 classes/base.php:952 classes/base.php:954
+#: classes/base.php:962 classes/base.php:964 classes/base.php:993
+#: menus/PieRegEditForm.php:156 menus/PieRegEditForm.php:539
+#: menus/PieRegHelp.php:331 menus/PieRegNotifications.php:248
+#: menus/settings/PieRegUX.php:151 pie-register.php:1481
+msgid "Yes"
+msgstr "Yes"
+
+#: classes/base.php:812 classes/base.php:816 classes/base.php:842
+#: classes/base.php:852 classes/base.php:856 classes/base.php:862
+#: classes/base.php:866 classes/base.php:871 classes/base.php:877
+#: classes/base.php:881 classes/base.php:885 classes/base.php:887
+#: classes/base.php:897 classes/base.php:901 classes/base.php:906
+#: classes/base.php:912 classes/base.php:914 classes/base.php:916
+#: classes/base.php:931 classes/base.php:935 classes/base.php:942
+#: classes/base.php:945 classes/base.php:952 classes/base.php:954
+#: classes/base.php:962 classes/base.php:964 classes/base.php:993
+#: menus/PieRegEditForm.php:159 menus/PieRegEditForm.php:536
+#: menus/PieRegHelp.php:331 menus/PieRegNotifications.php:251
+#: menus/settings/PieRegUX.php:155 pie-register.php:1485
+msgid "No"
+msgstr "No"
+
+#: classes/base.php:816 classes/base.php:856 classes/base.php:866
+#: classes/base.php:881 classes/base.php:901 classes/base.php:935
+#: classes/base.php:945 classes/base.php:962 classes/base.php:993
+#: menus/PieRegEditForm.php:152
+msgid "Enable Conditional Logic"
+msgstr "Enable Conditional Logic"
+
+#: classes/base.php:816 classes/base.php:856 classes/base.php:866
+#: classes/base.php:881 classes/base.php:901 classes/base.php:935
+#: classes/base.php:945 classes/base.php:962 classes/base.php:993
+msgid "Show"
+msgstr "Show"
+
+#: classes/base.php:816 classes/base.php:856 classes/base.php:866
+#: classes/base.php:881 classes/base.php:901 classes/base.php:935
+#: classes/base.php:945 classes/base.php:962 classes/base.php:993
+msgid "Hide"
+msgstr "Hide"
+
+#: classes/base.php:816 classes/base.php:856 classes/base.php:866
+#: classes/base.php:881 classes/base.php:901 classes/base.php:935
+#: classes/base.php:945 classes/base.php:962 classes/base.php:993
+#: menus/PieRegEditForm.php:180 menus/PieRegEditForm.php:240
+#: pie-register.php:851
+msgid "this field if"
+msgstr "this field if"
+
+#: classes/base.php:842 classes/base.php:847 classes/base.php:897
+msgid "Label2"
+msgstr "Label2"
+
+#: classes/base.php:842
+msgid "Show Strength Meter"
+msgstr "Show Strength Meter"
+
+#: classes/base.php:842
+msgid "Strength Indicator"
+msgstr "Strength Indicator"
+
+#: classes/base.php:842
+msgid "Very Weak"
+msgstr "Very Weak"
+
+#: classes/base.php:842
+msgid "Weak"
+msgstr "Weak"
+
+#: classes/base.php:842
+msgid "Medium"
+msgstr "Medium"
+
+#: classes/base.php:842
+msgid "Strong"
+msgstr "Strong"
+
+#: classes/base.php:842
+msgid "Mismatch"
+msgstr "Mismatch"
+
+#: classes/base.php:842
+msgid "Minimum Strength"
+msgstr "Minimum Strength"
+
+#: classes/base.php:842
+msgid "Very weak"
+msgstr "Very weak"
+
+#: classes/base.php:842
+msgid "Strength Message"
+msgstr "Strength Message"
+
+#: classes/base.php:852 classes/base.php:954
+msgid "Rows"
+msgstr "Rows"
+
+#: classes/base.php:852 classes/base.php:954
+msgid "Columns"
+msgstr "Columns"
+
+#: classes/base.php:862 classes/base.php:871 classes/base.php:885
+#: classes/base.php:887 classes/base.php:986
+msgid "Display Value"
+msgstr "Display Value"
+
+#: classes/base.php:862 classes/base.php:871 classes/base.php:885
+#: classes/base.php:887
+msgid "Value"
+msgstr "Value"
+
+#: classes/base.php:862 classes/base.php:871 classes/base.php:885
+#: classes/base.php:887 classes/base.php:986
+msgid "Checked"
+msgstr "Checked"
+
+#: classes/base.php:862 classes/base.php:871 classes/base.php:906
+#: classes/base.php:916
+msgid "List Type"
+msgstr "List Type"
+
+#: classes/base.php:862 classes/base.php:871 classes/profile_admin.php:224
+#: pie-register.php:4839
+#: pie_register_template/profile_edit/edit_form_template.php:518
+#: pie_register_template/registration/registration_form_template.php:693
+msgid "Country"
+msgstr "Country"
+
+#: classes/base.php:862 classes/base.php:871
+msgid "US States"
+msgstr "US States"
+
+#: classes/base.php:862 classes/base.php:871
+msgid "Canada States"
+msgstr "Canada States"
+
+#: classes/base.php:877
+msgid "Min"
+msgstr "Min"
+
+#: classes/base.php:877
+msgid "Max"
+msgstr "Max"
+
+#: classes/base.php:895
+msgid "Next Button"
+msgstr "Next Button"
+
+#: classes/base.php:895 menus/PieRegEditForm.php:556
+msgid "Text"
+msgstr "Text"
+
+#: classes/base.php:895
+msgid "Image"
+msgstr "Image"
+
+#: classes/base.php:895 classes/base.php:952
+msgid "Image URL"
+msgstr "Image URL"
+
+#: classes/base.php:895
+msgid "Previous Button"
+msgstr "Previous Button"
+
+#: classes/base.php:906
+msgid "12 hour"
+msgstr "12 hour"
+
+#: classes/base.php:906
+msgid "24 hour"
+msgstr "24 hour"
+
+#: classes/base.php:912
+msgid "File Types"
+msgstr "File Types"
+
+#: classes/base.php:912
+msgid "Separated with commas"
+msgstr "Separated with commas"
+
+#: classes/base.php:916 classes/base.php:931 classes/base.php:942
+msgid "International"
+msgstr "International"
+
+#: classes/base.php:916
+msgid "Default Country"
+msgstr "Default Country"
+
+#: classes/base.php:916
+msgid "Congo, Democratic Republic of the"
+msgstr "Democratic Republic of the Congo"
+
+#: classes/base.php:916
+msgid "Congo, Republic of the"
+msgstr "Democratic Republic of the Congo"
+
+#: classes/base.php:916
+msgid "Côte d\\'Ivoire"
+msgstr "Côte d\\'Ivoire"
+
+#: classes/base.php:916
+msgid "Hide Address 2"
+msgstr "Hide Address 2"
+
+#: classes/base.php:916
+msgid "Hide State"
+msgstr "Hide State"
+
+#: classes/base.php:916
+msgid "Default State"
+msgstr "Default State"
+
+#: classes/base.php:922
+msgid "Captcha Skin"
+msgstr "Captcha Skin"
+
+#: classes/base.php:922
+msgid "Red"
+msgstr "Red"
+
+#: classes/base.php:922
+msgid "White"
+msgstr "White"
+
+#: classes/base.php:922
+msgid "Clean"
+msgstr "Clean"
+
+#: classes/base.php:922
+msgid "Blackglass"
+msgstr "Blackglass"
+
+#: classes/base.php:922 menus/settings/PieRegSecurityBasic.php:47
+#: menus/settings/PieRegSecurityBasic.php:161
+msgid "Captcha Type"
+msgstr "Captcha Type"
+
+#: classes/base.php:922
+msgid "Classic ReCaptcha"
+msgstr "Classic ReCaptcha"
+
+#: classes/base.php:922 menus/settings/PieRegSecurityBasic.php:51
+msgid "No Captcha ReCaptcha"
+msgstr "No Captcha ReCaptcha"
+
+#: classes/base.php:922 classes/base.php:926 menus/PieRegInvitationCodes.php:42
+#: menus/PieRegInvitationCodes.php:72 menus/PieRegRestrictUsers.php:57
+#: menus/PieRegRestrictUsers.php:101 menus/PieRegRestrictUsers.php:142
+#: menus/settings/PieRegPagesRoleBased.php:9
+msgid "Note"
+msgstr "Note"
+
+#: classes/base.php:922 classes/base.php:926
+msgid "Please make sure that Re-captcha keys are entered in Settings page"
+msgstr "Please make sure that Re-captcha keys are entered in Settings page"
+
+#: classes/base.php:931 classes/base.php:942
+msgid "Phone Format"
+msgstr "Phone Format"
+
+#: classes/base.php:942
+msgid ""
+"Please do not use +. \n"
+" e.g. 4155551212 (USA), 07400123456 (GB)."
+msgstr ""
+"Please do not use +. \n"
+" e.g. 4155551212 (USA), 07400123456 (GB)."
+
+#: classes/base.php:952
+msgid "Date Format"
+msgstr "Date Format"
+
+#: classes/base.php:952
+msgid "Date Input Type"
+msgstr "Date Input Type"
+
+#: classes/base.php:952
+msgid "Date Field"
+msgstr "Date Field"
+
+#: classes/base.php:952
+msgid "Date Picker"
+msgstr "Date Picker"
+
+#: classes/base.php:952
+msgid "Date Drop Down"
+msgstr "Date Drop Down"
+
+#: classes/base.php:952
+msgid "No Icon"
+msgstr "No Icon"
+
+#: classes/base.php:952
+msgid "Calendar Icon"
+msgstr "Calendar Icon"
+
+#: classes/base.php:952
+msgid "Custom Icon"
+msgstr "Custom Icon"
+
+#: classes/base.php:986
+msgid "Starting Price"
+msgstr "Starting Price"
+
+#: classes/base.php:986
+msgid "For"
+msgstr "For"
+
+#: classes/base.php:986
+msgid "Days"
+msgstr "Days"
+
+#: classes/base.php:986
+msgid "Weeks"
+msgstr "Weeks"
+
+#: classes/base.php:986
+msgid "Months"
+msgstr "Months"
+
+#: classes/base.php:986
+msgid "Then Price"
+msgstr "Then Price"
+
+#: classes/base.php:986
+msgid "Activation Cycle"
+msgstr "Activation Cycle"
+
+#: classes/base.php:986 menus/PieRegEditForm.php:138
+msgid "Use Default"
+msgstr "Use Default"
+
+#: classes/base.php:986
+msgid "One Time"
+msgstr "One Time"
+
+#: classes/base.php:986
+msgid "Weekly"
+msgstr "Weekly"
+
+#: classes/base.php:986
+msgid "Monthly"
+msgstr "Monthly"
+
+#: classes/base.php:986
+msgid "Half Yearly"
+msgstr "Half Yearly"
+
+#: classes/base.php:986
+msgid "Quarterly"
+msgstr "Quarterly"
+
+#: classes/base.php:986
+msgid "Yearly"
+msgstr "Yearly"
+
+#: classes/base.php:986 menus/PieRegImportExport.php:249 pie-register.php:3421
+msgid "Role"
+msgstr "Role"
+
+#: classes/base.php:989
+msgid "Allow Payment Gateways"
+msgstr "Allow Payment Gateways"
+
+#: classes/base.php:989
+msgid "Field as"
+msgstr "Field as"
+
+#: classes/base.php:989
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: classes/base.php:989
+msgid "Radio Button"
+msgstr "Radio Button"
+
+#: classes/base.php:1442
+msgid ""
+"Pie-Register is only compatible with WordPress v3.5 and up. You are "
+"currently using WordPress."
+msgstr ""
+"Pie-Register is only compatible with WordPress v3.5 and up. You are "
+"currently using WordPress."
+
+#: classes/base.php:1442
+msgid "The plugin may not work as expected."
+msgstr "The plugin may not work as expected."
+
+#: classes/base.php:1966 classes/base.php:1984 classes/base.php:2048
+#: classes/edit_form.php:82 classes/edit_form.php:87 classes/edit_form.php:92
+#: classes/edit_form.php:94 classes/edit_form.php:98 classes/edit_form.php:225
+#: classes/edit_form.php:247 classes/edit_form.php:257
+#: classes/edit_form.php:282 classes/edit_form.php:286
+#: classes/edit_form.php:333 classes/edit_form.php:337
+#: classes/edit_form.php:346 classes/edit_form.php:353
+#: classes/edit_form.php:368 classes/edit_form.php:375
+#: classes/profile_admin.php:565 classes/profile_admin.php:568
+#: classes/profile_admin.php:572 classes/profile_admin.php:576
+#: classes/profile_admin.php:580 classes/profile_admin.php:676
+#: classes/profile_admin.php:681 classes/profile_admin.php:704
+#: classes/profile_admin.php:710 classes/profile_admin.php:721
+#: classes/registration_form.php:179 classes/registration_form.php:183
+#: classes/registration_form.php:189 classes/registration_form.php:193
+#: classes/registration_form.php:208 classes/registration_form.php:219
+#: classes/registration_form.php:229 classes/registration_form.php:243
+#: classes/registration_form.php:249 classes/registration_form.php:252
+#: classes/registration_form.php:348 classes/registration_form.php:411
+#: classes/registration_form.php:422 classes/registration_form.php:445
+#: classes/registration_form.php:449 classes/registration_form.php:465
+#: classes/registration_form.php:485 classes/registration_form.php:499
+#: classes/registration_form.php:503 classes/registration_form.php:515
+#: forgot_password.php:80 forgot_password.php:87 forgot_password.php:133
+#: forgot_password.php:156 forgot_password.php:206 login_form.php:148
+#: login_form.php:163 login_form.php:167 login_form.php:175 login_form.php:177
+#: login_form.php:187 login_form.php:190 login_form.php:193
+#: pie-register.php:1961 pie-register.php:1964 pie-register.php:3563
+#: pie-register.php:3635 pie-register.php:3709 pie-register.php:5952
+#: pie-register.php:5955
+msgid "error"
+msgstr "error"
+
+#: classes/base.php:1966 classes/base.php:2020 classes/base.php:2048
+#: classes/profile_admin.php:676 classes/profile_admin.php:704
+#: classes/profile_admin.php:721
+msgid "Fail to upload profile picture."
+msgstr "Fail to upload profile picture."
+
+#: classes/base.php:1984 classes/edit_form.php:257
+#: classes/registration_form.php:411
+msgid "Invalid File Type In Profile Picture."
+msgstr "Invalid File Type In Profile Picture."
+
+#: classes/base.php:2036
+msgid "Invalid File."
+msgstr "Invalid File."
+
+#: classes/base.php:2358
+msgid "File not exists"
+msgstr "File not exists"
+
+#: classes/edit_form.php:82 classes/registration_form.php:189
+msgid "Invalid E-mail address"
+msgstr "Invalid E-mail address"
+
+#: classes/edit_form.php:87
+msgid "New and Confirm Password Fields do not match!"
+msgstr "New and Confirm Password Fields do not match!"
+
+#: classes/edit_form.php:92
+msgid "Old Password Field do not match!"
+msgstr "Old Password Field do not match!"
+
+#: classes/edit_form.php:94
+msgid "Invalid Old Password Field!"
+msgstr "Invalid Old Password Field!"
+
+#: classes/edit_form.php:98
+msgid "Old and New passwords are same!"
+msgstr "Old and New passwords are same!"
+
+#: classes/edit_form.php:208 pie-register.php:6080 pie-register.php:7181
+msgid "There was a problem and the email was probably not sent."
+msgstr "There was a problem and the email was probably not sent."
+
+#: classes/edit_form.php:225
+msgid "This Email already Exists"
+msgstr "This Email already Exists"
+
+#: classes/edit_form.php:247 classes/registration_form.php:422
+msgid "Invalid File Type"
+msgstr "Invalid File Type"
+
+#: classes/edit_form.php:282 classes/registration_form.php:445
+msgid "Invalid Invitation Code"
+msgstr "Invalid Invitation Code"
+
+#: classes/edit_form.php:286 classes/registration_form.php:449
+msgid "Invitation Code has expired"
+msgstr "Invitation Code has expired"
+
+#: classes/edit_form.php:346 classes/profile_admin.php:568
+#: classes/registration_form.php:523
+msgid " field must contain only numbers."
+msgstr " field must contain only numbers."
+
+#: classes/edit_form.php:353 classes/profile_admin.php:572
+#: classes/registration_form.php:530
+msgid " field may only contain alpha-numeric characters."
+msgstr " field may only contain alpha-numeric characters."
+
+#: classes/edit_form.php:360 classes/registration_form.php:537
+msgid " field may only contains alphabetic letters."
+msgstr " field may only contains alphabetic letters."
+
+#: classes/edit_form.php:368 classes/profile_admin.php:576
+#: classes/registration_form.php:545
+msgid " field must contain a valid email address."
+msgstr " field must contain a valid email address."
+
+#: classes/edit_form.php:375 classes/profile_admin.php:580
+#: classes/registration_form.php:552
+msgid " must be a valid URL."
+msgstr " must be a valid URL."
+
+#: classes/edit_form.php:380 classes/registration_form.php:557
+msgid " invalid field."
+msgstr " invalid field."
+
+#: classes/edit_form.php:502
+msgid "Something Went Wrong updating Profile fields, please try again!"
+msgstr "Something Went Wrong updating Profile fields, please try again!"
+
+#: classes/edit_form.php:504
+msgid "Your Profile has been updated."
+msgstr "Your Profile has been updated."
+
+#: classes/invitation_code_pagination.php:53
+msgid "No invitation codes are found"
+msgstr "No invitation codes are found"
+
+#: classes/invitation_code_pagination.php:62
+msgid "Click Here to Select/De-select All"
+msgstr "Click Here to Select/De-select All"
+
+#: classes/invitation_code_pagination.php:62
+msgid ""
+"<input type=\"checkbox\" id=\"select_all_invitaion_checkbox\" class="
+"\"select_all_invitaion_checkbox\" onclick=\"select_all_invitaion_checkbox();"
+"\" title=\""
+msgstr ""
+"<input type=\"checkbox\" id=\"select_all_invitaion_checkbox\" class="
+"\"select_all_invitaion_checkbox\" onclick=\"select_all_invitaion_checkbox();"
+"\" title=\""
+
+#: classes/invitation_code_pagination.php:63
+#: classes/pie_redirect_settings.php:61
+msgid "#"
+msgstr "#"
+
+#: classes/invitation_code_pagination.php:64
+msgid "Code Name"
+msgstr "Code Name"
+
+#: classes/invitation_code_pagination.php:65 menus/PieRegInvitationCodes.php:82
+msgid "Usage"
+msgstr "Usage"
+
+#: classes/invitation_code_pagination.php:66
+msgid "Used"
+msgstr "Used"
+
+#: classes/invitation_code_pagination.php:67
+msgid "Action"
+msgstr "Action"
+
+#: classes/invitation_code_pagination.php:118
+#: classes/pie_redirect_settings.php:112
+msgid "Edit:"
+msgstr "Edit:"
+
+#: classes/invitation_code_pagination.php:123
+#: classes/pie_redirect_settings.php:117
+msgid "No title set"
+msgstr "No title set"
+
+#: classes/invitation_code_pagination.php:129
+#: classes/pie_redirect_settings.php:123
+msgid "Click Here To Edit"
+msgstr "Click Here To Edit"
+
+#: classes/invitation_code_pagination.php:138
+#: classes/pie_redirect_settings.php:154 menus/PieRegEditForm.php:375
+#: menus/PieRegInvitationCodes.php:126 pie-register.php:748
+#: pie-register.php:3407
+msgid "Delete"
+msgstr "Delete"
+
+#: classes/pie_redirect_settings.php:52
+msgid "Record Not Found"
+msgstr "Record Not Found"
+
+#: classes/pie_redirect_settings.php:62
+#: menus/settings/PieRegPagesRoleBased.php:52
+msgid "User Role"
+msgstr "User Role"
+
+#: classes/pie_redirect_settings.php:63
+#: menus/settings/PieRegPagesAllUsers.php:45
+msgid "After Login Page"
+msgstr "After Login Page"
+
+#: classes/pie_redirect_settings.php:64
+#: menus/settings/PieRegPagesAllUsers.php:62
+msgid "After Logout Page"
+msgstr "After Logout Page"
+
+#: classes/pie_redirect_settings.php:131
+msgid "Click here to edit"
+msgstr "Click here to edit"
+
+#: classes/pie_redirect_settings.php:151 menus/PieRegHelp.php:264
+#: menus/PieRegHelp.php:277 menus/PieRegHelp.php:290 pie-register.php:1475
+#: widget.php:235
+msgid "Enable"
+msgstr "Enable"
+
+#: classes/pie_redirect_settings.php:151 menus/PieRegHelp.php:268
+#: menus/PieRegHelp.php:281 menus/PieRegHelp.php:294 menus/PieRegHelp.php:317
+#: menus/settings/PieRegSecurityBasic.php:299 widget.php:234
+msgid "Disable"
+msgstr "Disable"
+
+#: classes/piereg_walker-nav-menu.php:44 piereg_walker-nav-menu.php:176
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pending)"
+
+#: classes/piereg_walker-nav-menu.php:56 classes/piereg_walker-nav-menu.php:58
+#: piereg_walker-nav-menu.php:187
+msgid "Edit Menu Item"
+msgstr "Edit Menu Item"
+
+#: classes/piereg_walker-nav-menu.php:67 piereg_walker-nav-menu.php:195
+msgid "URL"
+msgstr "URL"
+
+#: classes/piereg_walker-nav-menu.php:75 piereg_walker-nav-menu.php:202
+msgid "Navigation Label"
+msgstr "Navigation Label"
+
+#: classes/piereg_walker-nav-menu.php:81 piereg_walker-nav-menu.php:207
+msgid "Title Attribute"
+msgstr "Title Attribute"
+
+#: classes/piereg_walker-nav-menu.php:87 piereg_walker-nav-menu.php:212
+msgid "Link Target"
+msgstr "Link Target"
+
+#: classes/piereg_walker-nav-menu.php:89 piereg_walker-nav-menu.php:214
+msgid "Same window or tab"
+msgstr "Same window or tab"
+
+#: classes/piereg_walker-nav-menu.php:90 piereg_walker-nav-menu.php:215
+msgid "New window or tab"
+msgstr "New window or tab"
+
+#: classes/piereg_walker-nav-menu.php:96 piereg_walker-nav-menu.php:220
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (optional)"
+
+#: classes/piereg_walker-nav-menu.php:102 piereg_walker-nav-menu.php:225
+msgid "Link Relationship (XFN)"
+msgstr "Link Relationship (XFN)"
+
+#: classes/piereg_walker-nav-menu.php:110 piereg_walker-nav-menu.php:232
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+
+#: classes/piereg_walker-nav-menu.php:120
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: classes/piereg_walker-nav-menu.php:133 piereg_walker-nav-menu.php:253
+msgid "Remove"
+msgstr "Remove"
+
+#: classes/piereg_walker-nav-menu.php:134 pie-register.php:1720
+#: pie_register_template/profile_edit/edit_form_template.php:856
+#: piereg_walker-nav-menu.php:253
+msgid "Cancel"
+msgstr "Cancel"
+
+#: classes/profile_admin.php:171 pie-register.php:4761
+#: pie_register_template/profile_edit/edit_form_template.php:457
+#: pie_register_template/registration/registration_form_template.php:622
+msgid "Street Address"
+msgstr "Street Address"
+
+#: classes/profile_admin.php:176 pie-register.php:4765
+#: pie_register_template/profile_edit/edit_form_template.php:463
+#: pie_register_template/registration/registration_form_template.php:629
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+#: classes/profile_admin.php:182 pie-register.php:4770
+#: pie_register_template/profile_edit/edit_form_template.php:469
+#: pie_register_template/registration/registration_form_template.php:636
+msgid "City"
+msgstr "City"
+
+#: classes/profile_admin.php:188 pie-register.php:4799
+#: pie_register_template/profile_edit/edit_form_template.php:477
+#: pie_register_template/registration/registration_form_template.php:645
+msgid "State / Province / Region"
+msgstr "State / Province / Region"
+
+#: classes/profile_admin.php:197 pie-register.php:4806
+#: pie_register_template/profile_edit/edit_form_template.php:488
+#: pie_register_template/registration/registration_form_template.php:658
+msgid "State"
+msgstr "State"
+
+#: classes/profile_admin.php:206 pie-register.php:4813
+#: pie_register_template/profile_edit/edit_form_template.php:499
+#: pie_register_template/registration/registration_form_template.php:671
+msgid "Province"
+msgstr "Province"
+
+#: classes/profile_admin.php:214 pie-register.php:4826
+#: pie_register_template/profile_edit/edit_form_template.php:507
+#: pie_register_template/registration/registration_form_template.php:679
+msgid "Zip / Postal Code"
+msgstr "Zip / Postal Code"
+
+#: classes/profile_admin.php:221
+#: pie_register_template/profile_edit/edit_form_template.php:515
+#: pie_register_template/registration/registration_form_template.php:690
+msgid "Select Country"
+msgstr "Select Country"
+
+#: classes/profile_admin.php:258 pie-register.php:5027
+#: pie_register_template/profile_edit/edit_form_template.php:237
+msgid "AM"
+msgstr "AM"
+
+#: classes/profile_admin.php:259
+#: pie_register_template/profile_edit/edit_form_template.php:238
+msgid "PM"
+msgstr "PM"
+
+#: classes/profile_admin.php:279 classes/profile_admin.php:298
+#: classes/profile_admin.php:317 pie-register.php:4948 pie-register.php:5027
+#: pie_register_template/profile_edit/edit_form_template.php:229
+#: pie_register_template/profile_edit/edit_form_template.php:545
+#: pie_register_template/profile_edit/edit_form_template.php:566
+#: pie_register_template/profile_edit/edit_form_template.php:583
+#: pie_register_template/registration/registration_form_template.php:328
+#: pie_register_template/registration/registration_form_template.php:719
+#: pie_register_template/registration/registration_form_template.php:740
+#: pie_register_template/registration/registration_form_template.php:757
+#: pie_register_template/registration/registration_form_template.php:778
+msgid "MM"
+msgstr "MM"
+
+#: classes/profile_admin.php:283 classes/profile_admin.php:302
+#: classes/profile_admin.php:309 pie-register.php:4952
+#: pie_register_template/profile_edit/edit_form_template.php:549
+#: pie_register_template/profile_edit/edit_form_template.php:570
+#: pie_register_template/profile_edit/edit_form_template.php:579
+#: pie_register_template/registration/registration_form_template.php:723
+#: pie_register_template/registration/registration_form_template.php:744
+#: pie_register_template/registration/registration_form_template.php:753
+#: pie_register_template/registration/registration_form_template.php:770
+msgid "DD"
+msgstr "DD"
+
+#: classes/profile_admin.php:287 classes/profile_admin.php:294
+#: classes/profile_admin.php:313
+msgid "yy"
+msgstr "yy"
+
+#: classes/profile_admin.php:329 pie-register.php:4969
+#: pie_register_template/profile_edit/edit_form_template.php:626
+#: pie_register_template/profile_edit/edit_form_template.php:679
+#: pie_register_template/profile_edit/edit_form_template.php:723
+#: pie_register_template/registration/registration_form_template.php:818
+#: pie_register_template/registration/registration_form_template.php:871
+#: pie_register_template/registration/registration_form_template.php:912
+msgid "Month"
+msgstr "Month"
+
+#: classes/profile_admin.php:339 pie-register.php:4974
+#: pie_register_template/profile_edit/edit_form_template.php:639
+#: pie_register_template/profile_edit/edit_form_template.php:691
+#: pie_register_template/profile_edit/edit_form_template.php:710
+#: pie_register_template/registration/registration_form_template.php:830
+#: pie_register_template/registration/registration_form_template.php:883
+#: pie_register_template/registration/registration_form_template.php:900
+msgid "Day"
+msgstr "Day"
+
+#: classes/profile_admin.php:349 pie-register.php:4979
+#: pie_register_template/profile_edit/edit_form_template.php:651
+#: pie_register_template/profile_edit/edit_form_template.php:667
+#: pie_register_template/profile_edit/edit_form_template.php:736
+#: pie_register_template/registration/registration_form_template.php:842
+#: pie_register_template/registration/registration_form_template.php:859
+#: pie_register_template/registration/registration_form_template.php:924
+msgid "Year"
+msgstr "Day"
+
+#: classes/profile_admin.php:474
+msgid "Pie-Register Registration Fields"
+msgstr "Pie-Register Registration Fields"
+
+#: classes/profile_admin.php:681
+msgid "Invalid profile picture"
+msgstr "Invalid profile picture"
+
+#: classes/profile_admin.php:710
+msgid "Invalid upload file."
+msgstr "Invalid upload file."
+
+#: classes/profile_front.php:43 menus/PieRegHelp.php:140
+#: menus/settings/PieRegPagesAllUsers.php:36 pie-register.php:1714
+#: pie_register_template/profile_edit/edit_form_template.php:24
+msgid "Profile Page"
+msgstr "Profile Page"
+
+#: classes/profile_front.php:44 widget.php:198
+msgid "Logout"
+msgstr "Logout"
+
+#: classes/registration_form.php:179
+msgid "Invalid Username"
+msgstr "Invalid Username"
+
+#: classes/registration_form.php:183
+msgid "Username already exists"
+msgstr "Username already exists"
+
+#: classes/registration_form.php:193
+msgid "E-mail address already exists"
+msgstr "E-mail address already exists"
+
+#: classes/registration_form.php:208 pie-register.php:1777
+msgid "Your IP address has been blocked by administrator."
+msgstr "Your IP address has been blocked by administrator."
+
+#: classes/registration_form.php:219 pie-register.php:1794
+msgid "This user has been blocked by administrator."
+msgstr "This user has been blocked by administrator."
+
+#: classes/registration_form.php:229 pie-register.php:1811
+msgid "This email address has been blocked by administrator."
+msgstr "This email address has been blocked by administrator."
+
+#: classes/registration_form.php:243 classes/registration_form.php:249
+#: classes/registration_form.php:252
+msgid "Spamming not allowed"
+msgstr "Spamming not allowed"
+
+#: classes/registration_form.php:320 classes/registration_form.php:347
+#: classes/registration_form.php:362 classes/registration_form.php:364
+#: classes/registration_form.php:376 classes/registration_form.php:401
+msgid "is required."
+msgstr "is required."
+
+#: classes/registration_form.php:465 forgot_password.php:133
+#: pie-register.php:1851 pie-register.php:1871 pie-register.php:1881
+#: pie-register.php:1904
+msgid "Invalid Security Code"
+msgstr "Invalid Security Code"
+
+#: classes/registration_form.php:485 classes/registration_form.php:499
+#: classes/registration_form.php:503
+msgid "Invalid Math Captcha"
+msgstr "Invalid Math Captcha"
+
+#: dash_widget.php:14
+msgid "PR Invitation Code Tracking"
+msgstr "PR Invitation Code Tracking"
+
+#: dash_widget.php:61
+msgid "Showing invitation code of current registered users only"
+msgstr "Showing invitation code of current registered users only"
+
+#: dash_widget.php:70
+msgid "Users Registered"
+msgstr "Users Registered"
+
+#: dash_widget_stats.php:14
+msgid " Pie-Register Stats"
+msgstr " Pie-Register Stats"
+
+#: dash_widget_stats.php:86 menus/PieRegRegistrationForm.php:46
+#: menus/PieRegRegistrationForm.php:56
+msgid "Views"
+msgstr "Views"
+
+#: dash_widget_stats.php:92
+msgid "Conversions"
+msgstr "Conversions"
+
+#: forgot_password.php:20 login_form.php:90 login_form.php:96
+#: login_form.php:157 login_form.php:180
+msgid "warning"
+msgstr "warning"
+
+#: forgot_password.php:20
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+
+#: forgot_password.php:68
+msgid "Error"
+msgstr "Error"
+
+#: forgot_password.php:68
+msgid ""
+"We are sorry, but your IP has been blocked due to too many recent failed "
+"attempts."
+msgstr ""
+"We are sorry, but your IP has been blocked due to too many recent failed "
+"attempts."
+
+#: forgot_password.php:80
+msgid "Invalid Username or Email, try again!"
+msgstr "Invalid Username or Email, try again!"
+
+#: forgot_password.php:87
+msgid "Invalid Captcha"
+msgstr "Invalid Captcha"
+
+#: forgot_password.php:156
+msgid "Username or Email was not found, try again!"
+msgstr "Username or Email was not found, try again!"
+
+#: forgot_password.php:206
+msgid "The e-mail could not be sent."
+msgstr "The e-mail could not be sent."
+
+#: forgot_password.php:206
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Possible reason: your host may have disabled the mail() function..."
+
+#: forgot_password.php:214
+msgid "Password reset is not allowed for this user"
+msgstr "Password reset is not allowed for this user"
+
+#: forgot_password.php:221 login_form.php:93 login_form.php:99
+#: login_form.php:144 login_form.php:202
+msgid "success"
+msgstr "success"
+
+#: forgot_password.php:221
+msgid "A message will be sent to your email address."
+msgstr "A message will be sent to your email address."
+
+#: get_password.php:4 login_form.php:180
+msgid "Enter your new password below."
+msgstr "Enter your new password below."
+
+#: get_password.php:15
+msgid "The passwords do not match."
+msgstr "The passwords do not match."
+
+#: get_password.php:25 login_form.php:202
+msgid "Your password has been reset."
+msgstr "Your password has been reset."
+
+#: get_password.php:46
+#: pie_register_template/reset_password/reset_password_form_template.php:15
+msgid "New password"
+msgstr "New password"
+
+#: get_password.php:51
+#: pie_register_template/reset_password/reset_password_form_template.php:19
+msgid "Confirm new password"
+msgstr "Confirm new password"
+
+#: login_form.php:72
+msgid "You canceled your payment."
+msgstr "You canceled your payment."
+
+#: login_form.php:85 pie-register.php:1961 pie-register.php:1968
+#: pie-register.php:5952
+msgid "Invalid username"
+msgstr "Invalid username"
+
+#: login_form.php:90 renew_account.php:49
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: login_form.php:93 renew_account.php:51
+msgid "Check your e-mail for the confirmation link."
+msgstr "Check your e-mail for the confirmation link."
+
+#: login_form.php:96 renew_account.php:53
+msgid "You have canelled your registration."
+msgstr "You have canelled your registration."
+
+#: login_form.php:99 renew_account.php:55
+msgid ""
+"Thank you for your registration. You will receieve your login credentials "
+"soon."
+msgstr ""
+"Thank you for your registration. You will receieve your login credentials "
+"soon."
+
+#: login_form.php:144 renew_account.php:69
+msgid "Your account is now active"
+msgstr "Your account has been activated"
+
+#: login_form.php:148 login_form.php:163 login_form.php:167
+msgid "Invalid activation key"
+msgstr "Invalid activation key"
+
+#: login_form.php:157
+msgid "You are already activate"
+msgstr "Your account is already activated"
+
+#: login_form.php:175
+msgid "You key has been expired, please reset password again!"
+msgstr "You key has been expired, please reset password again!"
+
+#: login_form.php:175 login_form.php:177 pie-register.php:1961
+#: pie-register.php:1964 pie_register_template/login/login_form_template.php:58
+msgid "Password Lost and Found"
+msgstr "Password Lost and Found"
+
+#: login_form.php:175 login_form.php:177 pie-register.php:1961
+#: pie-register.php:1964 pie_register_template/login/login_form_template.php:58
+msgid "Lost your password?"
+msgstr "Lost your password?"
+
+#: login_form.php:177
+msgid ""
+"This Reset key is invalid or no longer exists. Please reset password again!"
+msgstr ""
+"This Reset key is invalid or no longer exists. Please reset password again!"
+
+#: login_form.php:187
+msgid "Invalid Password"
+msgstr "Invalid Password"
+
+#: login_form.php:190
+msgid "Minimum 8 characters required in password"
+msgstr "Minimum 8 characters required in password"
+
+#: login_form.php:193
+msgid "The passwords do not match"
+msgstr "The passwords do not match"
+
+#: menus/PieLicenseKeyPage.php:28
+msgid "Licence Key Settings"
+msgstr "Licence Key Settings"
+
+#: menus/PieLicenseKeyPage.php:30
+msgid "You need to activate the license key to use premium features"
+msgstr "You need to activate the license key to use premium features"
+
+#: menus/PieLicenseKeyPage.php:34
+msgid "Activation"
+msgstr "Activation"
+
+#: menus/PieLicenseKeyPage.php:45 menus/PieRegHelp.php:176
+msgid "Email Address"
+msgstr "Email Address"
+
+#: menus/PieLicenseKeyPage.php:53 menus/PieRegInvitationCodes.php:129
+msgid "Activate"
+msgstr "Activate"
+
+#: menus/PieLicenseKeyPage.php:54
+msgid "Already Purchased"
+msgstr "Already Purchased"
+
+#: menus/PieLicenseKeyPage.php:54
+msgid "Click here to Purchase"
+msgstr "Click here to Purchase"
+
+#: menus/PieRegBulkEmails.php:8 pie-register.php:2311
+msgid "Bulk Email"
+msgstr "Bulk Email"
+
+#: menus/PieRegBulkEmails.php:25
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: menus/PieRegBulkEmails.php:32
+msgid "Aweber"
+msgstr "Aweber"
+
+#: menus/PieRegBulkEmails.php:39
+msgid "Aweber (Coming Soon)"
+msgstr "Aweber (Coming Soon)"
+
+#: menus/PieRegEditForm.php:22
+msgid "Manage Forms : Form Editor"
+msgstr "Manage Forms : Form Editor"
+
+#: menus/PieRegEditForm.php:42 menus/PieRegEditForm.php:602
+#: menus/PieRegInvitationCodes.php:62 menus/settings/PieRegOverrides.php:48
+#: menus/settings/PieRegPagesAllUsers.php:79
+#: menus/settings/PieRegSecurityAdvance.php:25 menus/settings/PieRegUX.php:49
+#: menus/settings/PieRegUX.php:187
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: menus/PieRegEditForm.php:50
+msgid "Preview"
+msgstr "Preview"
+
+#: menus/PieRegEditForm.php:57
+msgid "Edit Form"
+msgstr "Edit Form"
+
+#: menus/PieRegEditForm.php:84
+msgid "Label Alignment"
+msgstr "Label Alignment"
+
+#: menus/PieRegEditForm.php:88
+msgid "Top"
+msgstr "Top"
+
+#: menus/PieRegEditForm.php:91
+msgid "Left"
+msgstr "Left"
+
+#: menus/PieRegEditForm.php:96
+msgid "Registering User Role"
+msgstr "Registering User Role"
+
+#: menus/PieRegEditForm.php:128 pie-register.php:851 pie-register.php:3443
+msgid "Admin Verification"
+msgstr "Admin Verification"
+
+#: menus/PieRegEditForm.php:129 pie-register.php:851 pie-register.php:3440
+msgid "E-mail Verification"
+msgstr "E-mail Verification"
+
+#: menus/PieRegEditForm.php:130 pie-register.php:851 pie-register.php:3446
+msgid "E-mail & Admin Verification"
+msgstr "E-mail & Admin Verification"
+
+#: menus/PieRegEditForm.php:134 menus/settings/PieRegSecurityBasic.php:285
+msgid "User Verification"
+msgstr "User Verification"
+
+#: menus/PieRegEditForm.php:172 menus/PieRegEditForm.php:232
+#: pie-register.php:851
+msgid "Verifications"
+msgstr "Verifications"
+
+#: menus/PieRegEditForm.php:187 menus/PieRegEditForm.php:246
+#: pie-register.php:852
+msgid "equal"
+msgstr "equal"
+
+#: menus/PieRegEditForm.php:190 menus/PieRegEditForm.php:249
+#: pie-register.php:852
+msgid "not equal"
+msgstr "not equal"
+
+#: menus/PieRegEditForm.php:193 menus/PieRegEditForm.php:252
+#: pie-register.php:852
+msgid "empty"
+msgstr "empty"
+
+#: menus/PieRegEditForm.php:196 menus/PieRegEditForm.php:255
+#: pie-register.php:852
+msgid "not empty"
+msgstr "not empty"
+
+#: menus/PieRegEditForm.php:199 menus/PieRegEditForm.php:258
+#: pie-register.php:852
+msgid "greater than"
+msgstr "greater than"
+
+#: menus/PieRegEditForm.php:202 menus/PieRegEditForm.php:261
+#: pie-register.php:852
+msgid "less than"
+msgstr "less than"
+
+#: menus/PieRegEditForm.php:205 menus/PieRegEditForm.php:264
+#: pie-register.php:852
+msgid "contains"
+msgstr "contains"
+
+#: menus/PieRegEditForm.php:208 menus/PieRegEditForm.php:267
+#: pie-register.php:852
+msgid "starts with"
+msgstr "starts with"
+
+#: menus/PieRegEditForm.php:211 menus/PieRegEditForm.php:270
+#: pie-register.php:852
+msgid "ends with"
+msgstr "ends with"
+
+#: menus/PieRegEditForm.php:285
+msgid "Drag Fields Here"
+msgstr "Drag Fields Here"
+
+#: menus/PieRegEditForm.php:289 menus/PieRegEditForm.php:609
+msgid "Did You Know ?"
+msgstr "Did You Know ?"
+
+#: menus/PieRegEditForm.php:292
+msgid "You can sort fields vertically"
+msgstr "You can sort fields vertically"
+
+#: menus/PieRegEditForm.php:294 menus/PieRegEditForm.php:614
+msgid "Yes Thanks !"
+msgstr "Yes Thanks !"
+
+#: menus/PieRegEditForm.php:362 pie-register.php:749
+msgid "Edit"
+msgstr "Edit"
+
+#: menus/PieRegEditForm.php:514
+msgid "Edit Button"
+msgstr "Edit Button"
+
+#: menus/PieRegEditForm.php:526
+msgid "Submit Button Text"
+msgstr "Submit Button Text"
+
+#: menus/PieRegEditForm.php:532
+msgid "Show Reset Button"
+msgstr "Show Reset Button"
+
+#: menus/PieRegEditForm.php:545
+msgid "Reset Button Text"
+msgstr "Reset Button Text"
+
+#: menus/PieRegEditForm.php:551
+msgid "Confirmation Message"
+msgstr "Confirmation Message"
+
+#: menus/PieRegEditForm.php:560
+msgid "Page"
+msgstr "Page"
+
+#: menus/PieRegEditForm.php:564 pie-register.php:1424
+msgid "Redirect"
+msgstr "Redirect"
+
+#: menus/PieRegEditForm.php:570
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+#: menus/PieRegEditForm.php:576
+msgid "Select Page"
+msgstr "Select Page"
+
+#: menus/PieRegEditForm.php:582
+msgid "Registration Success Message"
+msgstr "Registration Success Message"
+
+#: menus/PieRegEditForm.php:612
+msgid "You can Drag n Drop fields."
+msgstr "You can Drag n Drop fields."
+
+#: menus/PieRegEditForm.php:619 menus/PieRegNotifications.php:123
+#: menus/PieRegNotifications.php:261
+msgid "Default Fields"
+msgstr "Default Fields"
+
+#: menus/PieRegEditForm.php:626
+msgid "Name"
+msgstr "Name"
+
+#: menus/PieRegEditForm.php:646
+msgid "Standard Fields"
+msgstr "Standard Fields"
+
+#: menus/PieRegEditForm.php:650
+msgid "Text Field"
+msgstr "Text Field"
+
+#: menus/PieRegEditForm.php:653
+msgid "Text Area"
+msgstr "Text Area"
+
+#: menus/PieRegEditForm.php:656
+msgid "Drop Down"
+msgstr "Drop Down"
+
+#: menus/PieRegEditForm.php:659
+msgid "Multi Select"
+msgstr "Multi Select"
+
+#: menus/PieRegEditForm.php:665
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: menus/PieRegEditForm.php:668
+msgid "Radio Buttons"
+msgstr "Radio Buttons"
+
+#: menus/PieRegEditForm.php:671
+msgid "Hidden Field"
+msgstr "Hidden Field"
+
+#: menus/PieRegEditForm.php:674
+msgid "HTML Script"
+msgstr "HTML Script"
+
+#: menus/PieRegEditForm.php:677
+msgid "Section Break"
+msgstr "Section Break"
+
+#: menus/PieRegEditForm.php:680
+msgid "Page Break"
+msgstr "Page Break"
+
+#: menus/PieRegEditForm.php:685
+msgid "Advanced Fields"
+msgstr "Advanced Fields"
+
+#: menus/PieRegEditForm.php:689
+msgid "Address"
+msgstr "Address"
+
+#: menus/PieRegEditForm.php:692 menus/PieRegPaymentGateway.php:171
+#: menus/PieRegPaymentGateway.php:208
+msgid "Date"
+msgstr "Date"
+
+#: menus/PieRegEditForm.php:695
+msgid "Time"
+msgstr "Time"
+
+#: menus/PieRegEditForm.php:698
+msgid "Phone"
+msgstr "Phone"
+
+#: menus/PieRegEditForm.php:706
+msgid "2Way Login Phone #"
+msgstr "2Way Login Phone #"
+
+#: menus/PieRegEditForm.php:711
+msgid "Upload File"
+msgstr "Upload File"
+
+#: menus/PieRegEditForm.php:714
+msgid "Profile Picture"
+msgstr "Profile Picture"
+
+#: menus/PieRegEditForm.php:717
+msgid "List"
+msgstr "List"
+
+#: menus/PieRegEditForm.php:721
+msgid "Membership"
+msgstr "Membership"
+
+#: menus/PieRegEditForm.php:726 menus/PieRegImportExport.php:93
+#: menus/PieRegInvitationCodes.php:20 pie-register.php:2305
+msgid "Invitation Codes"
+msgstr "Invitation Codes"
+
+#: menus/PieRegEditForm.php:730
+msgid "Re-Captcha"
+msgstr "Re-Captcha"
+
+#: menus/PieRegEditForm.php:733 menus/settings/PieRegSecurityBasic.php:59
+#: menus/settings/PieRegSecurityBasic.php:172
+msgid "Math Captcha"
+msgstr "Math Captcha"
+
+#: menus/PieRegEditForm.php:737
+msgid "Honeypot"
+msgstr "Honeypot"
+
+#: menus/PieRegHelp.php:28 pie-register.php:2339
+msgid "Help"
+msgstr "Help"
+
+#: menus/PieRegHelp.php:47
+msgid "Documentation"
+msgstr "Documentation"
+
+#: menus/PieRegHelp.php:49
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: menus/PieRegHelp.php:51
+msgid "License"
+msgstr "License"
+
+#: menus/PieRegHelp.php:53
+msgid "Version"
+msgstr "Version"
+
+#: menus/PieRegHelp.php:56
+msgid "Environment"
+msgstr "Environment"
+
+#: menus/PieRegHelp.php:59
+msgid "Plugins and Themes"
+msgstr "Plugins and Themes"
+
+#: menus/PieRegHelp.php:62
+msgid "Error Log"
+msgstr "Error Log"
+
+#: menus/PieRegHelp.php:71
+msgid ""
+"Welcome to the Pie-Register&acute;s Customer Support Page. Many of your "
+"installation and setup related queries are answered in our FAQ&acute;s, "
+"Documentation and Forums sections listed below. It is suggested that before "
+"you submit a support ticket, please review the mentioned sections for a "
+"clear and better understanding of Pie-Register. This will reduce the Support "
+"Volume for a timely execution of the Support Process"
+msgstr ""
+"Welcome to the Pie-Register&acute;s Customer Support Page. Many of your "
+"installation and setup related queries are answered in our FAQ&acute;s, "
+"Documentation and Forums sections listed below. It is suggested that before "
+"you submit a support ticket, please review the mentioned sections for a "
+"clear and better understanding of Pie-Register. This will reduce the Support "
+"Volume for a timely execution of the Support Process"
+
+#: menus/PieRegHelp.php:74
+msgid ""
+"If you still have any query, feel free to contact us by submitting a support "
+"ticket form on the right"
+msgstr ""
+"If you still have any query, feel free to contact us by submitting a support "
+"ticket form on the right"
+
+#: menus/PieRegHelp.php:77
+msgid "Browse Frequently Asked Questions"
+msgstr "Browse Frequently Asked Questions"
+
+#: menus/PieRegHelp.php:78
+msgid "Pie-Register v3.0 Beta Problems"
+msgstr "Pie-Register v3.0 Beta Problems"
+
+#: menus/PieRegHelp.php:79
+msgid "Go To Forums"
+msgstr "Go To Forums"
+
+#: menus/PieRegHelp.php:80
+msgid "Review Documentation"
+msgstr "Review Documentation"
+
+#: menus/PieRegHelp.php:81
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: menus/PieRegHelp.php:82
+msgid "Setting up Pie-Register"
+msgstr "Setting up Pie-Register"
+
+#: menus/PieRegHelp.php:83
+msgid "Installation Problems"
+msgstr "Installation Problems"
+
+#: menus/PieRegHelp.php:84
+msgid "Using Pie-Register"
+msgstr "Using Pie-Register"
+
+#: menus/PieRegHelp.php:85
+msgid "News and Announcements"
+msgstr "News and Announcements"
+
+#: menus/PieRegHelp.php:90
+msgid ""
+"Pie Register allows you to easily embed Login, Registration, Forgot Password "
+"and Profile pages anywhere using Shortcodes. You can embed these pages "
+"inside a post, page, custom post type or even in a widgets by using the "
+"following Shortcodes"
+msgstr ""
+"Pie Register allows you to easily embed Login, Registration, Forgot Password "
+"and Profile pages anywhere using Shortcodes. You can embed these pages "
+"inside a post, page, custom post type or even in a widgets by using the "
+"following Shortcodes"
+
+#: menus/PieRegHelp.php:93
+msgid "Forms"
+msgstr "Forms"
+
+#: menus/PieRegHelp.php:94
+msgid "Short Code"
+msgstr "Short Code"
+
+#: menus/PieRegHelp.php:128 menus/settings/PieRegSecurityBasic.php:12
+#: menus/settings/PieRegUX.php:69 pie-register.php:1712
+msgid "Login Form"
+msgstr "Login Form"
+
+#: menus/PieRegHelp.php:134 menus/settings/PieRegSecurityBasic.php:139
+#: menus/settings/PieRegUX.php:99 pie-register.php:1713 widget.php:260
+msgid "Forgot Password Form"
+msgstr "Forgot Password Form"
+
+#: menus/PieRegHelp.php:148
+msgid "Renew Account Page"
+msgstr "Renew Account Page"
+
+#: menus/PieRegHelp.php:183 menus/PieRegInvitationCodes.php:132
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: menus/PieRegHelp.php:184
+msgid "Deactivate this license to use on another site"
+msgstr "Deactivate this license to use on another site"
+
+#: menus/PieRegHelp.php:194
+msgid "Pie Register Add-ons"
+msgstr "Pie Register Add-ons"
+
+#: menus/PieRegHelp.php:209
+msgid "Pie Register Version"
+msgstr "Pie Register Version"
+
+#: menus/PieRegHelp.php:218
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: menus/PieRegHelp.php:226
+msgid ""
+"Sorry, Pie-Register requires PHP 5.0 or higher. Please deactivate Pie-"
+"Register"
+msgstr ""
+"Sorry, Pie-Register requires PHP 5.0 or higher. Please deactivate Pie-"
+"Register"
+
+#: menus/PieRegHelp.php:231
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: menus/PieRegHelp.php:242
+msgid ""
+"Sorry, Pie-Register requires MySQL 5.0 or higher. Please deactivate Pie-"
+"Register"
+msgstr ""
+"Sorry, Pie-Register requires MySQL 5.0 or higher. Please deactivate Pie-"
+"Register"
+
+#: menus/PieRegHelp.php:248
+msgid "Wordpress Version"
+msgstr "Wordpress Version"
+
+#: menus/PieRegHelp.php:256
+msgid ""
+"Sorry, Pie-Register requires Wordpress 3.5 or higher. Please deactivate Pie-"
+"Register"
+msgstr ""
+"Sorry, Pie-Register requires Wordpress 3.5 or higher. Please deactivate Pie-"
+"Register"
+
+#: menus/PieRegHelp.php:261
+msgid "Curl"
+msgstr "Curl"
+
+#: menus/PieRegHelp.php:269
+msgid "Please install CURL on server"
+msgstr "Please install CURL on server"
+
+#: menus/PieRegHelp.php:274
+msgid "File Get Contents"
+msgstr "File Get Contents"
+
+#: menus/PieRegHelp.php:282 menus/PieRegHelp.php:295
+msgid "Please install File Get Contents on server"
+msgstr "Please install File Get Contents on server"
+
+#: menus/PieRegHelp.php:287
+msgid "MB String"
+msgstr "MB String"
+
+#: menus/PieRegHelp.php:302
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: menus/PieRegHelp.php:308
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: menus/PieRegHelp.php:316
+msgid "ini_get"
+msgstr "ini_get"
+
+#: menus/PieRegHelp.php:318
+msgid "Please install ini_get on server"
+msgstr "Please install ini_get on server"
+
+#: menus/PieRegHelp.php:323
+msgid "WP Memory Limit"
+msgstr "WP Memory Limit"
+
+#: menus/PieRegHelp.php:329
+msgid "WP Debug Mode"
+msgstr "WP Debug Mode"
+
+#: menus/PieRegHelp.php:335
+msgid "WP Language"
+msgstr "WP Language"
+
+#: menus/PieRegHelp.php:341
+msgid "WP Max Upload Size"
+msgstr "WP Max Upload Size"
+
+#: menus/PieRegImportExport.php:6 pie-register.php:2333
+msgid "Import/Export"
+msgstr "Import/Export"
+
+#: menus/PieRegImportExport.php:24
+msgid "All Settings"
+msgstr "All Settings"
+
+#: menus/PieRegImportExport.php:30 menus/PieRegImportExport.php:33
+#: menus/PieRegImportExport.php:65 menus/PieRegImportExport.php:68
+#: menus/PieRegImportExport.php:99 menus/PieRegImportExport.php:102
+#: menus/PieRegImportExport.php:139 menus/PieRegImportExport.php:142
+#: menus/PieRegImportExport.php:180
+msgid "Export"
+msgstr "Export"
+
+#: menus/PieRegImportExport.php:40 menus/PieRegImportExport.php:45
+#: menus/PieRegImportExport.php:75 menus/PieRegImportExport.php:80
+#: menus/PieRegImportExport.php:109 menus/PieRegImportExport.php:114
+#: menus/PieRegImportExport.php:149 menus/PieRegImportExport.php:154
+#: menus/PieRegImportExport.php:292 menus/PieRegImportExport.php:322
+msgid "Import"
+msgstr "Import"
+
+#: menus/PieRegImportExport.php:50 menus/PieRegImportExport.php:84
+#: menus/PieRegImportExport.php:118 menus/PieRegImportExport.php:158
+msgid "Warning"
+msgstr "Warning"
+
+#: menus/PieRegImportExport.php:52
+msgid ""
+"Only supports json format. Importing data will remove all your existing "
+"settings"
+msgstr ""
+"Only supports json format. Importing data will remove all your existing "
+"settings"
+
+#: menus/PieRegImportExport.php:59
+msgid "E-mail Templates"
+msgstr "E-mail Templates"
+
+#: menus/PieRegImportExport.php:86
+msgid ""
+"Only supports json format. Importing data will remove all your existing "
+"email templates"
+msgstr ""
+"Only supports json format. Importing data will remove all your existing "
+"email templates"
+
+#: menus/PieRegImportExport.php:120
+msgid ""
+"Only supports json format. Importing data will remove all your existing "
+"invitation codes"
+msgstr ""
+"Only supports json format. Importing data will remove all your existing "
+"invitation codes"
+
+#: menus/PieRegImportExport.php:127
+msgid "All Users Data With Custom Fields"
+msgstr "All Users Data With Custom Fields"
+
+#: menus/PieRegImportExport.php:131
+#, php-format
+msgid "Successfully Imported (%d) User(s)"
+msgstr "Successfully Imported (%d) User(s)"
+
+#: menus/PieRegImportExport.php:133
+#, php-format
+msgid "Already Registered (%d) User(s)"
+msgstr "Already Registered (%d) User(s)"
+
+#: menus/PieRegImportExport.php:160
+msgid "Only supports json format"
+msgstr "Only supports json format"
+
+#: menus/PieRegImportExport.php:171
+msgid "User Entries"
+msgstr "User Entries"
+
+#: menus/PieRegImportExport.php:183
+msgid ""
+"Now you can export all users with custom fields within a date range to a CSV "
+"file! Simply select the fields and select your Date Range. The Date Range "
+"feature is optional, if you do not select a date range then all entries will "
+"be exported. Click on the Download CSV File to complete the operation."
+msgstr ""
+"Now you can export all users with custom fields within a date range to a CSV "
+"file! Simply select the fields and select your Date Range. The Date Range "
+"feature is optional, if you do not select a date range then all entries will "
+"be exported. Click on the Download CSV File to complete the operation."
+
+#: menus/PieRegImportExport.php:190
+msgid "Select Fields"
+msgstr "Select Fields"
+
+#: menus/PieRegImportExport.php:195 restrict_widget/show_in_use_restrict.php:59
+msgid "Select All"
+msgstr "Select All"
+
+#: menus/PieRegImportExport.php:219
+msgid "Nickname"
+msgstr "Nickname"
+
+#: menus/PieRegImportExport.php:225
+msgid "Display name"
+msgstr "Display name"
+
+#: menus/PieRegImportExport.php:231 pie-register.php:3419 pie-register.php:3436
+#: renew_account.php:122
+msgid "E-mail"
+msgstr "E-mail"
+
+#: menus/PieRegImportExport.php:243
+msgid "Biographical Info"
+msgstr "Biographical Info"
+
+#: menus/PieRegImportExport.php:255
+msgid "User Registered"
+msgstr "User Registered"
+
+#: menus/PieRegImportExport.php:263
+msgid "Select User Registration Date Range"
+msgstr "Select User Registration Date Range"
+
+#: menus/PieRegImportExport.php:267
+msgid "Start"
+msgstr "Start"
+
+#: menus/PieRegImportExport.php:273
+msgid "End"
+msgstr "End"
+
+#: menus/PieRegImportExport.php:277
+msgid ""
+"Date Range is optional, if no date range is selected all entries will be "
+"exported."
+msgstr ""
+"Date Range is optional, if no date range is selected all entries will be "
+"exported."
+
+#: menus/PieRegImportExport.php:279
+msgid "Download CSV File"
+msgstr "Download CSV File"
+
+#: menus/PieRegImportExport.php:295
+msgid ""
+"Select the  CSV file you would like to import. When you click the import "
+"button below, Pie Register will import the users. Please see the example of "
+"CSV file before the import operartion."
+msgstr ""
+"Select the  CSV file you would like to import. When you click the import "
+"button below, Pie Register will import the users. Please see the example of "
+"CSV file before the import operartion."
+
+#: menus/PieRegImportExport.php:302
+msgid "Select File"
+msgstr "Select File"
+
+#: menus/PieRegImportExport.php:311
+msgid "Update Existing Users"
+msgstr "Update Existing Users"
+
+#: menus/PieRegImportExport.php:316
+msgid "You may want to see"
+msgstr "You may want to see"
+
+#: menus/PieRegImportExport.php:316
+msgid "the example of the CSV file"
+msgstr "the example of the CSV file"
+
+#: menus/PieRegInvitationCodes.php:39
+msgid ""
+"Protect your privacy. If you want your blog to be exclusive, enable "
+"Invitation Codes to allow users to register by invitation only"
+msgstr ""
+"Protect your privacy. If you want your blog to be exclusive, enable "
+"Invitation Codes to allow users to register by invitation only"
+
+#: menus/PieRegInvitationCodes.php:42
+msgid "You must add the invitation code field to your registration form"
+msgstr "You must add the invitation code field to your registration form"
+
+#: menus/PieRegInvitationCodes.php:51
+msgid "Enable Invitation Codes"
+msgstr "Enable Invitation Codes"
+
+#: menus/PieRegInvitationCodes.php:57
+msgid ""
+"Set this to Yes if you want users to register when they use an invitation "
+"code you provide. To use Invitation codes, you will need to add the "
+"Invitation Code field to registration form in the form editor"
+msgstr ""
+"Set this to Yes if you want users to register when they use an invitation "
+"code you provide. To use Invitation codes, you will need to add the "
+"Invitation Code field to registration form in the form editor"
+
+#: menus/PieRegInvitationCodes.php:68
+msgid "Insert Codes"
+msgstr "Insert Codes"
+
+#: menus/PieRegInvitationCodes.php:74
+msgid "Each Code will be on a Separate Line."
+msgstr "Each Code will be on a Separate Line."
+
+#: menus/PieRegInvitationCodes.php:76
+msgid "Special Characters are not allowed."
+msgstr "Special Characters are not allowed."
+
+#: menus/PieRegInvitationCodes.php:86
+msgid "Number of times a single code can be used to register"
+msgstr "Number of times a single code can be used to register"
+
+#: menus/PieRegInvitationCodes.php:91
+msgid "Add Code"
+msgstr "Add Code"
+
+#: menus/PieRegInvitationCodes.php:99
+#: menus/settings/PieRegPagesRoleBased.php:147
+msgid "Per-Page Item"
+msgstr "Per-Page Item"
+
+#: menus/PieRegInvitationCodes.php:100
+msgid "Select Per-Page Invitation code"
+msgstr "Select Per-Page Invitation code"
+
+#: menus/PieRegInvitationCodes.php:123
+msgid "Bulk Actions"
+msgstr "Bulk Actions"
+
+#: menus/PieRegInvitationCodes.php:135
+msgid "Apply"
+msgstr "Apply"
+
+#: menus/PieRegInvitationCodes.php:138
+msgid "Select Bulk Option and also Invitation Code"
+msgstr "Select Bulk Option and also Invitation Code"
+
+#: menus/PieRegNotifications.php:6 pie-register.php:2302
+msgid "Notifications"
+msgstr "Notifications"
+
+#: menus/PieRegNotifications.php:21
+msgid "Admin Notification"
+msgstr "Admin Notification"
+
+#: menus/PieRegNotifications.php:22
+msgid "User Notification"
+msgstr "User Notification"
+
+#: menus/PieRegNotifications.php:37
+msgid "Enable email notifications to administrator"
+msgstr "Enable email notifications to administrator"
+
+#: menus/PieRegNotifications.php:42
+msgid "Send To Email*"
+msgstr "Send To Email*"
+
+#: menus/PieRegNotifications.php:48 menus/PieRegNotifications.php:221
+msgid "From Name"
+msgstr "From Name"
+
+#: menus/PieRegNotifications.php:54 menus/PieRegNotifications.php:227
+msgid "From Email"
+msgstr "From Email"
+
+#: menus/PieRegNotifications.php:60 menus/PieRegNotifications.php:233
+msgid "Reply To"
+msgstr "Reply To"
+
+#: menus/PieRegNotifications.php:66
+msgid "BCC"
+msgstr "BCC"
+
+#: menus/PieRegNotifications.php:72 menus/PieRegNotifications.php:239
+msgid "Subject"
+msgstr "Subject"
+
+#: menus/PieRegNotifications.php:81
+msgid "Email HTML Format"
+msgstr "Email HTML Format"
+
+#: menus/PieRegNotifications.php:86
+msgid ""
+"Message: Enter a message below to receive a notification email when new "
+"users register."
+msgstr ""
+"Message: Enter a message below to receive a notification email when new "
+"users register."
+
+#: menus/PieRegNotifications.php:87 menus/PieRegNotifications.php:258
+msgid "Replacement Keys"
+msgstr "Replacement Keys"
+
+#: menus/PieRegNotifications.php:122 menus/PieRegNotifications.php:260
+#: pie-register.php:1697 renew_account.php:164
+msgid "Select"
+msgstr "Select"
+
+#: menus/PieRegNotifications.php:124 menus/PieRegNotifications.php:262
+#: pie-register.php:1543 pie-register.php:1549 pie-register.php:3418
+#: renew_account.php:116 renew_account.php:130
+msgid "User Name"
+msgstr "User Name"
+
+#: menus/PieRegNotifications.php:125 menus/PieRegNotifications.php:263
+#: pie-register.php:1544 pie-register.php:1550
+msgid "User E-mail"
+msgstr "User E-mail"
+
+#: menus/PieRegNotifications.php:126 menus/PieRegNotifications.php:264
+msgid "User First Name"
+msgstr "User First Name"
+
+#: menus/PieRegNotifications.php:127 menus/PieRegNotifications.php:265
+msgid "User Last Name"
+msgstr "User Last Name"
+
+#: menus/PieRegNotifications.php:128 menus/PieRegNotifications.php:266
+msgid "User URL"
+msgstr "User URL"
+
+#: menus/PieRegNotifications.php:129 menus/PieRegNotifications.php:267
+msgid "User AIM"
+msgstr "User AIM"
+
+#: menus/PieRegNotifications.php:130 menus/PieRegNotifications.php:268
+msgid "User YIM"
+msgstr "User YIM"
+
+#: menus/PieRegNotifications.php:131 menus/PieRegNotifications.php:269
+msgid "User Jabber"
+msgstr "User Jabber"
+
+#: menus/PieRegNotifications.php:132 menus/PieRegNotifications.php:270
+msgid "User Biographical Info"
+msgstr "User Biographical Info"
+
+#: menus/PieRegNotifications.php:133 menus/PieRegNotifications.php:271
+msgid "User Registration Date"
+msgstr "User Registration Date"
+
+#: menus/PieRegNotifications.php:135 menus/PieRegNotifications.php:273
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+#: menus/PieRegNotifications.php:138 menus/PieRegNotifications.php:276
+msgid "Other"
+msgstr "Other"
+
+#: menus/PieRegNotifications.php:139 menus/PieRegNotifications.php:280
+msgid "Blog Name"
+msgstr "Blog Name"
+
+#: menus/PieRegNotifications.php:140 menus/PieRegNotifications.php:281
+msgid "Site URL"
+msgstr "Site URL"
+
+#: menus/PieRegNotifications.php:141 menus/PieRegNotifications.php:282
+msgid "Blog Name With Site URL"
+msgstr "Blog Name With Site URL"
+
+#: menus/PieRegNotifications.php:142 menus/PieRegNotifications.php:277
+msgid "User IP"
+msgstr "User IP"
+
+#: menus/PieRegNotifications.php:155 menus/PieRegNotifications.php:301
+#: menus/PieRegPaymentGateway.php:68 menus/PieRegPaymentGateway.php:145
+#: menus/PieRegRestrictUsers.php:73 menus/PieRegRestrictUsers.php:114
+#: menus/PieRegRestrictUsers.php:157 menus/settings/PieRegSecurityBasic.php:378
+#: restrict_widget/show_in_use_restrict.php:65
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: menus/PieRegNotifications.php:208
+msgid "Select a template to edit"
+msgstr "Select a template to edit"
+
+#: menus/PieRegNotifications.php:245
+msgid "Email Format: HTML Text"
+msgstr "Email Format: HTML Text"
+
+#: menus/PieRegNotifications.php:257
+msgid ""
+"Message: Enter a message below to send notification emails to users when a "
+"condition is met."
+msgstr ""
+"Message: Enter a message below to send notification emails to users when a "
+"condition is met."
+
+#: menus/PieRegNotifications.php:278
+msgid "User New E-mail"
+msgstr "User New E-mail"
+
+#: menus/PieRegNotifications.php:279
+msgid "User Last Date"
+msgstr "User Last Date"
+
+#: menus/PieRegNotifications.php:283
+msgid "Reset Password URL"
+msgstr "Reset Password URL"
+
+#: menus/PieRegNotifications.php:284
+msgid "User Activation URL"
+msgstr "User Activation URL"
+
+#: menus/PieRegNotifications.php:285
+msgid "Reset Email URL"
+msgstr "Reset Email URL"
+
+#: menus/PieRegNotifications.php:286
+msgid "Confirm Current Email URL"
+msgstr "Confirm Current Email URL"
+
+#: menus/PieRegNotifications.php:287
+msgid "Pending Payment URL"
+msgstr "Pending Payment URL"
+
+#: menus/PieRegNotifications.php:312
+msgid "Click here to import version 1.x email template"
+msgstr "Click here to import version 1.x email template"
+
+#: menus/PieRegNotifications.php:313
+msgid "Import email template"
+msgstr "Import email template"
+
+#: menus/PieRegPaymentGateway.php:16 pie-register.php:2320
+msgid "Payment Gateways"
+msgstr "Payment Gateways"
+
+#: menus/PieRegPaymentGateway.php:27
+msgid "General Settings"
+msgstr "General Settings"
+
+#: menus/PieRegPaymentGateway.php:28
+msgid "PayPal Standard"
+msgstr "PayPal Standard"
+
+#: menus/PieRegPaymentGateway.php:32
+msgid "Payment Log"
+msgstr "Payment Log"
+
+#: menus/PieRegPaymentGateway.php:50
+msgid "Enable PayPal Standard"
+msgstr "Enable PayPal Standard"
+
+#: menus/PieRegPaymentGateway.php:53
+msgid "PayPal Hosted Button ID"
+msgstr "PayPal Hosted Button ID"
+
+#: menus/PieRegPaymentGateway.php:58
+msgid "Paypal Mode"
+msgstr "Paypal Mode"
+
+#: menus/PieRegPaymentGateway.php:61
+msgid "Live"
+msgstr "Live"
+
+#: menus/PieRegPaymentGateway.php:62
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: menus/PieRegPaymentGateway.php:70
+msgid "Instructions"
+msgstr "Instructions"
+
+#: menus/PieRegPaymentGateway.php:74
+msgid "Please follow the steps below to create and set the required Options."
+msgstr "Please follow the steps below to create and set the required Options."
+
+#: menus/PieRegPaymentGateway.php:77
+msgid "Login to your"
+msgstr "Login to your"
+
+#: menus/PieRegPaymentGateway.php:77
+msgid "Paypal account"
+msgstr "Paypal account"
+
+#: menus/PieRegPaymentGateway.php:78
+msgid "Go to Merchant Services and Click on"
+msgstr "Go to Merchant Services and Click on"
+
+#: menus/PieRegPaymentGateway.php:78
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: menus/PieRegPaymentGateway.php:78
+msgid "button"
+msgstr "button"
+
+#: menus/PieRegPaymentGateway.php:79
+msgid "Give Your Button a Name. i.e: Website Access fee and Set Price."
+msgstr "Give Your Button a Name. i.e: Website Access fee and Set Price."
+
+#: menus/PieRegPaymentGateway.php:80
+msgid ""
+"Click on Step3: Customize advance features (optional) Tab, select \"Add "
+"advanced variables\" checkbox and add the following snippet"
+msgstr ""
+"Click on Step3: Customize advance features (optional) Tab, select \"Add "
+"advanced variables\" checkbox and add the following snippet"
+
+#: menus/PieRegPaymentGateway.php:89
+msgid ""
+"Click Create button, On the next page, you will see the generated button "
+"code snippet like the following"
+msgstr ""
+"Click Create button, On the next page, you will see the generated button "
+"code snippet like the following"
+
+#: menus/PieRegPaymentGateway.php:99
+msgid ""
+"Copy the snippet into any text editor, extract and put the hosted_button_id "
+"value (XXXXXXXXXX) into the Above Field."
+msgstr ""
+"Copy the snippet into any text editor, extract and put the hosted_button_id "
+"value (XXXXXXXXXX) into the Above Field."
+
+#: menus/PieRegPaymentGateway.php:100
+msgid "Save Changes, You're done!"
+msgstr "Save Changes, You're done!"
+
+#: menus/PieRegPaymentGateway.php:119
+msgid "Messages"
+msgstr "Messages"
+
+#: menus/PieRegPaymentGateway.php:122
+msgid "Payment Success"
+msgstr "Payment Success"
+
+#: menus/PieRegPaymentGateway.php:127
+msgid "Payment Failed"
+msgstr "Payment Failed"
+
+#: menus/PieRegPaymentGateway.php:132
+msgid "Reactivate Account"
+msgstr "Reactivate Account"
+
+#: menus/PieRegPaymentGateway.php:137
+msgid "Already Active"
+msgstr "Already Active"
+
+#: menus/PieRegPaymentGateway.php:168 menus/PieRegPaymentGateway.php:205
+msgid "User Email"
+msgstr "User Email"
+
+#: menus/PieRegPaymentGateway.php:169 menus/PieRegPaymentGateway.php:206
+msgid "Method"
+msgstr "Method"
+
+#: menus/PieRegPaymentGateway.php:170 menus/PieRegPaymentGateway.php:207
+msgid "Type"
+msgstr "Type"
+
+#: menus/PieRegPaymentGateway.php:199 pie-register.php:4282
+msgid "No Record Found"
+msgstr "No Record Found"
+
+#: menus/PieRegPaymentGateway.php:216
+msgid "Are you sure you want to clear the payment log?"
+msgstr "Are you sure you want to clear the payment log?"
+
+#: menus/PieRegPaymentGateway.php:218
+msgid "Clear All"
+msgstr "Clear All"
+
+#: menus/PieRegPaymentGateway.php:223
+msgid "Download"
+msgstr "Download"
+
+#: menus/PieRegRegistrationForm.php:8
+msgid "Pie-Register Registration Form"
+msgstr "Pie-Register Registration Form"
+
+#: menus/PieRegRegistrationForm.php:34
+msgid "Add New"
+msgstr "Add New"
+
+#: menus/PieRegRegistrationForm.php:44 menus/PieRegRegistrationForm.php:54
+msgid "ID"
+msgstr "ID"
+
+#: menus/PieRegRegistrationForm.php:45 menus/PieRegRegistrationForm.php:55
+msgid "Registration form Title"
+msgstr "Registration form Title"
+
+#: menus/PieRegRegistrationForm.php:47 menus/PieRegRegistrationForm.php:57
+msgid "Submissions"
+msgstr "Submissions"
+
+#: menus/PieRegRegistrationForm.php:48 menus/PieRegRegistrationForm.php:58
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: menus/PieRegRegistrationForm.php:108
+msgid "No Registration Form Found"
+msgstr "No Registration Form Found"
+
+#: menus/PieRegRestrictUsers.php:7 pie-register.php:2326
+msgid "Block Users"
+msgstr "Block Users"
+
+#: menus/PieRegRestrictUsers.php:25
+msgid "Block Users by Username"
+msgstr "Block Users by Username"
+
+#: menus/PieRegRestrictUsers.php:28
+msgid "Block Users by IP Address"
+msgstr "Block Users by IP Address"
+
+#: menus/PieRegRestrictUsers.php:31
+msgid "Block Users by Email Address"
+msgstr "Block Users by Email Address"
+
+#: menus/PieRegRestrictUsers.php:47
+msgid "Do not allow users listed below to login to my site."
+msgstr "Do not allow users listed below to login to my site."
+
+#: menus/PieRegRestrictUsers.php:52
+msgid "Usernames:"
+msgstr "Usernames:"
+
+#: menus/PieRegRestrictUsers.php:59
+msgid ""
+"For every single username\n"
+"use new line"
+msgstr ""
+"For every single username\n"
+"use new line"
+
+#: menus/PieRegRestrictUsers.php:62 menus/PieRegRestrictUsers.php:105
+#: menus/PieRegRestrictUsers.php:147
+msgid "Example"
+msgstr "Example"
+
+#: menus/PieRegRestrictUsers.php:66
+msgid "Give (*) to block user containing that username"
+msgstr "Give (*) to block user containing that username"
+
+#: menus/PieRegRestrictUsers.php:91
+msgid "Do not allow access to my site from IP addresses listed below."
+msgstr "Do not allow access to my site from IP addresses listed below."
+
+#: menus/PieRegRestrictUsers.php:96
+msgid "IP Addresses"
+msgstr "IP Addresses"
+
+#: menus/PieRegRestrictUsers.php:103
+msgid "Enter each IP address on a new line"
+msgstr "Enter each IP address on a new line"
+
+#: menus/PieRegRestrictUsers.php:132
+msgid ""
+"Do not allow access to my site for users using email address listed below ."
+msgstr ""
+"Do not allow access to my site for users using email address listed below ."
+
+#: menus/PieRegRestrictUsers.php:137
+msgid "Email Addresses:"
+msgstr "Email Addresses:"
+
+#: menus/PieRegRestrictUsers.php:144
+msgid ""
+"For every single email address\n"
+"use new line"
+msgstr ""
+"For every single email address\n"
+"use new line"
+
+#: menus/PieRegRestrictUsers.php:150
+msgid "Give (*) to block user containing that domain"
+msgstr "Give (*) to block user containing that domain"
+
+#: menus/PieRegSettings.php:15 pie-register.php:1135 pie-register.php:2330
+msgid "Settings"
+msgstr "Settings"
+
+#: menus/PieRegSettings.php:18
+msgid "Reset to Default"
+msgstr "Reset to Default"
+
+#: menus/PieRegSettings.php:43
+msgid "Pages"
+msgstr "Pages"
+
+#: menus/PieRegSettings.php:46
+msgid "All Users"
+msgstr "All Users"
+
+#: menus/PieRegSettings.php:49
+msgid "Role Based Redirect"
+msgstr "Role Based Redirect"
+
+#: menus/PieRegSettings.php:53
+msgid "UX"
+msgstr "UX"
+
+#: menus/PieRegSettings.php:56 menus/PieRegSettings.php:68
+msgid "Basic"
+msgstr "Basic"
+
+#: menus/PieRegSettings.php:59 menus/PieRegSettings.php:71
+msgid "Advanced"
+msgstr "Advanced"
+
+#: menus/PieRegSettings.php:63
+msgid "Overrides"
+msgstr "Overrides"
+
+#: menus/PieRegSettings.php:65
+msgid "Security"
+msgstr "Security"
+
+#: menus/settings/PieRegOverrides.php:11
+msgid ""
+"When a user is logged in, do not show login, registration and forgot "
+"password links."
+msgstr ""
+"When a user is logged in, do not show login, registration and forgot "
+"password links."
+
+#: menus/settings/PieRegOverrides.php:19
+msgid "Do not show admin bar."
+msgstr "Do not show admin bar."
+
+#: menus/settings/PieRegOverrides.php:27
+msgid "Redirect users to custom profile page, if one exists."
+msgstr "Redirect users to custom profile page, if one exists."
+
+#: menus/settings/PieRegOverrides.php:35
+msgid ""
+"Do not allow users to login from the WordPress login page. Note: You must "
+"select an alternate login page."
+msgstr ""
+"Do not allow users to login from the WordPress login page. Note: You must "
+"select an alternate login page."
+
+#: menus/settings/PieRegOverrides.php:43
+msgid "Allow Pie-Register to add header Footer in wp-login.php."
+msgstr "Allow Pie-Register to add header Footer in wp-login.php."
+
+#: menus/settings/PieRegPagesAllUsers.php:9
+msgid "Login Page"
+msgstr "Login Page"
+
+#: menus/settings/PieRegPagesAllUsers.php:14
+msgid "This page must contain the Pie Register Login form short code."
+msgstr "This page must contain the Pie Register Login form short code."
+
+#: menus/settings/PieRegPagesAllUsers.php:18
+msgid "Registration Page"
+msgstr "Registration Page"
+
+#: menus/settings/PieRegPagesAllUsers.php:23
+msgid "This page must contain the Pie Register Registration form short code."
+msgstr "This page must contain the Pie Register Registration form short code."
+
+#: menus/settings/PieRegPagesAllUsers.php:27
+msgid "Forgot Password Page"
+msgstr "Forgot Password Page"
+
+#: menus/settings/PieRegPagesAllUsers.php:32
+msgid ""
+"This page must contain the Pie Register Forgot Password form short code."
+msgstr ""
+"This page must contain the Pie Register Forgot Password form short code."
+
+#: menus/settings/PieRegPagesAllUsers.php:41
+msgid "This page must contain the Pie Register Profile section short code."
+msgstr "This page must contain the Pie Register Profile section short code."
+
+#: menus/settings/PieRegPagesRoleBased.php:9
+msgid ""
+"Page settings on the Role Based Redirect tab will always override page "
+"settings on the All Users tab"
+msgstr ""
+"Page settings on the Role Based Redirect tab will always override page "
+"settings on the All Users tab"
+
+#: menus/settings/PieRegPagesRoleBased.php:13
+msgid "Edit Record"
+msgstr "Edit Record"
+
+#: menus/settings/PieRegPagesRoleBased.php:15
+msgid "Add Record"
+msgstr "Add Record"
+
+#: menus/settings/PieRegPagesRoleBased.php:93
+msgid "After Log In Page"
+msgstr "After Log In Page"
+
+#: menus/settings/PieRegPagesRoleBased.php:114
+msgid "After Log out Page"
+msgstr "After Log out Page"
+
+#: menus/settings/PieRegPagesRoleBased.php:133
+msgid "Update"
+msgstr "Update"
+
+#: menus/settings/PieRegPagesRoleBased.php:136
+msgid "Save Record"
+msgstr "Save Record"
+
+#: menus/settings/PieRegPagesRoleBased.php:148
+msgid "Select Per-Page User Role Redirection"
+msgstr "Select Per-Page User Role Redirection"
+
+#: menus/settings/PieRegSecurityAdvance.php:12
+msgid "Time form submission, reject form if submitted within "
+msgstr "Time form submission, reject form if submitted within "
+
+#: menus/settings/PieRegSecurityAdvance.php:19
+msgid "seconds or less."
+msgstr "seconds or less."
+
+#: menus/settings/PieRegSecurityAdvance.php:20
+msgid "Security enhancement for forms (timed submission)"
+msgstr "Security enhancement for forms (timed submission)"
+
+#: menus/settings/PieRegSecurityAdvance.php:32
+msgid "Restrict Widgets"
+msgstr "Restrict Widgets"
+
+#: menus/settings/PieRegSecurityBasic.php:16
+msgid "Show Captcha on login form?"
+msgstr "Show Captcha on login form?"
+
+#: menus/settings/PieRegSecurityBasic.php:24
+msgid "After"
+msgstr "After"
+
+#: menus/settings/PieRegSecurityBasic.php:34
+#: menus/settings/PieRegSecurityBasic.php:135
+#: menus/settings/PieRegSecurityBasic.php:248
+msgid "invalid login attempts"
+msgstr "invalid login attempts"
+
+#: menus/settings/PieRegSecurityBasic.php:40
+#: menus/settings/PieRegSecurityBasic.php:154
+msgid "Captcha Label"
+msgstr "Captcha Label"
+
+#: menus/settings/PieRegSecurityBasic.php:64
+msgid "Appear Captcha in login form which you want."
+msgstr "Appear Captcha in login form which you want."
+
+#: menus/settings/PieRegSecurityBasic.php:67
+#: menus/settings/PieRegSecurityBasic.php:180
+msgid ""
+"<strong>Note:</strong> Classic ReCaptcha will not show multiple times on a "
+"single page."
+msgstr ""
+"<strong>Note:</strong> Classic ReCaptcha will not show multiple times on a "
+"single page."
+
+#: menus/settings/PieRegSecurityBasic.php:75
+#: menus/settings/PieRegSecurityBasic.php:188
+msgid "Lockout user for"
+msgstr "Lockout user for"
+
+#: menus/settings/PieRegSecurityBasic.php:78
+#: menus/settings/PieRegSecurityBasic.php:191
+msgid "1"
+msgstr "1"
+
+#: menus/settings/PieRegSecurityBasic.php:81
+#: menus/settings/PieRegSecurityBasic.php:114
+#: menus/settings/PieRegSecurityBasic.php:194
+#: menus/settings/PieRegSecurityBasic.php:227
+msgid "2"
+msgstr "2"
+
+#: menus/settings/PieRegSecurityBasic.php:84
+#: menus/settings/PieRegSecurityBasic.php:117
+#: menus/settings/PieRegSecurityBasic.php:197
+#: menus/settings/PieRegSecurityBasic.php:230
+msgid "3"
+msgstr "3"
+
+#: menus/settings/PieRegSecurityBasic.php:87
+#: menus/settings/PieRegSecurityBasic.php:120
+#: menus/settings/PieRegSecurityBasic.php:200
+#: menus/settings/PieRegSecurityBasic.php:233
+msgid "4"
+msgstr "4"
+
+#: menus/settings/PieRegSecurityBasic.php:90
+#: menus/settings/PieRegSecurityBasic.php:123
+#: menus/settings/PieRegSecurityBasic.php:203
+#: menus/settings/PieRegSecurityBasic.php:236
+msgid "5"
+msgstr "5"
+
+#: menus/settings/PieRegSecurityBasic.php:93
+#: menus/settings/PieRegSecurityBasic.php:126
+#: menus/settings/PieRegSecurityBasic.php:206
+#: menus/settings/PieRegSecurityBasic.php:239
+msgid "7"
+msgstr "7"
+
+#: menus/settings/PieRegSecurityBasic.php:96
+#: menus/settings/PieRegSecurityBasic.php:129
+#: menus/settings/PieRegSecurityBasic.php:209
+#: menus/settings/PieRegSecurityBasic.php:242
+msgid "10"
+msgstr "10"
+
+#: menus/settings/PieRegSecurityBasic.php:99
+#: menus/settings/PieRegSecurityBasic.php:212
+msgid "30"
+msgstr "30"
+
+#: menus/settings/PieRegSecurityBasic.php:102
+#: menus/settings/PieRegSecurityBasic.php:215
+msgid "60"
+msgstr "60"
+
+#: menus/settings/PieRegSecurityBasic.php:105
+#: menus/settings/PieRegSecurityBasic.php:218
+msgid "90"
+msgstr "90"
+
+#: menus/settings/PieRegSecurityBasic.php:108
+#: menus/settings/PieRegSecurityBasic.php:221
+msgid "120"
+msgstr "120"
+
+#: menus/settings/PieRegSecurityBasic.php:111
+#: menus/settings/PieRegSecurityBasic.php:224
+msgid "minutes after"
+msgstr "minutes after"
+
+#: menus/settings/PieRegSecurityBasic.php:132
+#: menus/settings/PieRegSecurityBasic.php:245
+msgid "15"
+msgstr "15"
+
+#: menus/settings/PieRegSecurityBasic.php:143
+msgid "Show Captcha on forgot password form?"
+msgstr "Show Captcha on forgot password form?"
+
+#: menus/settings/PieRegSecurityBasic.php:165
+msgid "No Catpcha ReCaptcha"
+msgstr "No Catpcha ReCaptcha"
+
+#: menus/settings/PieRegSecurityBasic.php:177
+msgid "Appear Captcha in Forgot Password form which you want."
+msgstr "Appear Captcha in Forgot Password form which you want."
+
+#: menus/settings/PieRegSecurityBasic.php:253
+msgid "reCAPTCHA Settings"
+msgstr "reCAPTCHA Settings"
+
+#: menus/settings/PieRegSecurityBasic.php:257
+msgid ""
+"Pie Register integrates with reCAPTCHA, a free CAPTCHA services that helps "
+"to digitize Books while Protecting your forms from spam bots. Please click "
+"<a href='https://www.google.com/recaptcha/admin' target='_blank'>here</a> to "
+"get reCaptcha keys for your site."
+msgstr ""
+"Pie Register integrates with reCAPTCHA, a free CAPTCHA services that helps "
+"to digitize Books while Protecting your forms from spam bots. Please click "
+"<a href='https://www.google.com/recaptcha/admin' target='_blank'>here</a> to "
+"get reCaptcha keys for your site."
+
+#: menus/settings/PieRegSecurityBasic.php:260
+msgid "Error : Invalid Re-Captcha keys"
+msgstr "Error : Invalid Re-Captcha keys"
+
+#: menus/settings/PieRegSecurityBasic.php:266
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site Key"
+
+#: menus/settings/PieRegSecurityBasic.php:271
+#: menus/settings/PieRegSecurityBasic.php:281
+msgid ""
+"Required Only if you decide to Use the reCAPTCHA field. Sign Up for a Free "
+"account to get the key."
+msgstr ""
+"Required Only if you decide to Use the reCAPTCHA field. Sign Up for a Free "
+"account to get the key."
+
+#: menus/settings/PieRegSecurityBasic.php:276
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Secret Key"
+
+#: menus/settings/PieRegSecurityBasic.php:289
+msgid ""
+"Note: Admin and Email verifications wont work when Payment gateway is enable."
+msgstr ""
+"Note: Admin and Email verifications wont work when Payment gateway is enable."
+
+#: menus/settings/PieRegSecurityBasic.php:294
+msgid "New User Verification"
+msgstr "New User Verification"
+
+#: menus/settings/PieRegSecurityBasic.php:302
+msgid "Admin Approval"
+msgstr "Admin Approval"
+
+#: menus/settings/PieRegSecurityBasic.php:305
+msgid "Verify Email Address"
+msgstr "Verify Email Address"
+
+#: menus/settings/PieRegSecurityBasic.php:309
+msgid "Admin Approval AND Verify Email Address"
+msgstr "Admin Approval AND Verify Email Address"
+
+#: menus/settings/PieRegSecurityBasic.php:315
+msgid ""
+"<strong>Admin Approval</strong> - Site admin has to approve each new user."
+msgstr ""
+"<strong>Admin Approval</strong> - Site admin has to approve each new user."
+
+#: menus/settings/PieRegSecurityBasic.php:318
+msgid ""
+"<strong>Verify Email Address</strong> - Require new registrations to click a "
+"link sent via email to enable their account."
+msgstr ""
+"<strong>Verify Email Address</strong> - Require new registrations to click a "
+"link sent via email to enable their account."
+
+#: menus/settings/PieRegSecurityBasic.php:321
+msgid "Grace Period (days)"
+msgstr "Grace Period (days)"
+
+#: menus/settings/PieRegSecurityBasic.php:326
+msgid ""
+"Unverified users will be automatically deleted after the grace period "
+"expires. 0 (Zero) for Unlimited"
+msgstr ""
+"Unverified users will be automatically deleted after the grace period "
+"expires. 0 (Zero) for Unlimited"
+
+#: menus/settings/PieRegSecurityBasic.php:332
+msgid "Verify Email Address Change"
+msgstr "Verify Email Address Change"
+
+#: menus/settings/PieRegSecurityBasic.php:337
+msgid "<strong>1-Step:</strong> Verify new email address."
+msgstr "<strong>1-Step:</strong> Verify new email address."
+
+#: menus/settings/PieRegSecurityBasic.php:341
+msgid ""
+"<strong>2-Step:</strong> Authenticate request by sending an email to old "
+"address + verify new address."
+msgstr ""
+"<strong>2-Step:</strong> Authenticate request by sending an email to old "
+"address + verify new address."
+
+#: menus/settings/PieRegSecurityBasic.php:345
+msgid "Off"
+msgstr "Off"
+
+#: menus/settings/PieRegSecurityBasic.php:352
+msgid "Restrict For Search Engine(s) / Bot"
+msgstr "Restrict For Search Engine(s) / Bot"
+
+#: menus/settings/PieRegSecurityBasic.php:359
+msgid "Restrict search engines and bots from crawling pages"
+msgstr "Restrict search engines and bots from crawling pages"
+
+#: menus/settings/PieRegSecurityBasic.php:364
+msgid "User Agents to Reject"
+msgstr "User Agents to Reject"
+
+#: menus/settings/PieRegSecurityBasic.php:371
+msgid "Text to send bots when blocking access"
+msgstr "Text to send bots when blocking access"
+
+#: menus/settings/PieRegUX.php:12
+msgid "Auto login users after registration."
+msgstr "Auto login users after registration."
+
+#: menus/settings/PieRegUX.php:13
+msgid "Make sure email/admin verifications and payment methods are off"
+msgstr "Make sure email/admin verifications and payment methods are off"
+
+#: menus/settings/PieRegUX.php:16
+msgid "Pie-Register Theme"
+msgstr "Pie-Register Theme"
+
+#: menus/settings/PieRegUX.php:19
+msgid "Select Theme"
+msgstr "Select Theme"
+
+#: menus/settings/PieRegUX.php:22
+msgid "Theme Default"
+msgstr "Theme Default"
+
+#: menus/settings/PieRegUX.php:45
+msgid "Select a theme for Pie Register."
+msgstr "Select a theme for Pie Register."
+
+#: menus/settings/PieRegUX.php:62
+msgid "Show tips and hints on form editor tool."
+msgstr "Show tips and hints on form editor tool."
+
+#: menus/settings/PieRegUX.php:73 menus/settings/PieRegUX.php:103
+msgid "Username Label"
+msgstr "Username Label"
+
+#: menus/settings/PieRegUX.php:79 menus/settings/PieRegUX.php:109
+msgid "Username Placeholder"
+msgstr "Username Placeholder"
+
+#: menus/settings/PieRegUX.php:85
+msgid "Password Label"
+msgstr "Password Label"
+
+#: menus/settings/PieRegUX.php:91
+msgid "Password Placeholder"
+msgstr "Password Placeholder"
+
+#: menus/settings/PieRegUX.php:116 menus/settings/PieRegUX.php:144
+msgid "Custom Logo"
+msgstr "Custom Logo"
+
+#: menus/settings/PieRegUX.php:119
+msgid "Custom Logo URL"
+msgstr "Custom Logo URL"
+
+#: menus/settings/PieRegUX.php:124
+msgid "Please enter Logo URL"
+msgstr "Please enter Logo URL"
+
+#: menus/settings/PieRegUX.php:125 pie-register.php:1445
+msgid "OR"
+msgstr "OR"
+
+#: menus/settings/PieRegUX.php:128
+msgid "Select Image to Upload"
+msgstr "Select Image to Upload"
+
+#: menus/settings/PieRegUX.php:132
+msgid "Tooltip Text"
+msgstr "Tooltip Text"
+
+#: menus/settings/PieRegUX.php:133
+msgid "Enter logo tooltip text"
+msgstr "Enter logo tooltip text"
+
+#: menus/settings/PieRegUX.php:134
+msgid "Show tooltip on custom logo."
+msgstr "Show tooltip on custom logo."
+
+#: menus/settings/PieRegUX.php:137
+msgid "Link URL"
+msgstr "Link URL"
+
+#: menus/settings/PieRegUX.php:139
+msgid "Enter logo Link"
+msgstr "Enter logo Link"
+
+#: menus/settings/PieRegUX.php:143
+msgid "Selected Logo"
+msgstr "Selected Logo"
+
+#: menus/settings/PieRegUX.php:147
+msgid "Show Custom Logo"
+msgstr "Show Custom Logo"
+
+#: menus/settings/PieRegUX.php:165
+msgid ""
+"Let Pie Register generate custom CSS. Turn this off if you have themes "
+"installed that conflict with Pie Register's CSS."
+msgstr ""
+"Let Pie Register generate custom CSS. Turn this off if you have themes "
+"installed that conflict with Pie Register's CSS."
+
+#: menus/settings/PieRegUX.php:171
+msgid ""
+"Let Pie Register generate jQuery UI for enhancements. Warning: Turning this "
+"off may restrict Pie Register's functionality. Do it at your own peril!"
+msgstr ""
+"Let Pie Register generate jQuery UI for enhancements. Warning: Turning this "
+"off may restrict Pie Register's functionality. Do it at your own peril!"
+
+#: menus/settings/PieRegUX.php:173
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: menus/settings/PieRegUX.php:176
+msgid ""
+"Note: Custom CSS is now deprecated. Please copy the code and paste in your "
+"theme options or use another plugin. "
+msgstr ""
+"Note: Custom CSS is now deprecated. Please copy the code and paste in your "
+"theme options or use another plugin. "
+
+#: menus/settings/PieRegUX.php:179
+msgid "Tracking Code"
+msgstr "Tracking Code"
+
+#: menus/settings/PieRegUX.php:182
+msgid ""
+"Note: Tracking Code is now deprecated. Please copy the code and paste in "
+"your theme option or use another plugin. "
+msgstr ""
+"Note: Tracking Code is now deprecated. Please copy the code and paste in "
+"your theme option or use another plugin. "
+
+#: pie-register.php:360
+msgid "Can not delete last form"
+msgstr "Can not delete last form"
+
+#: pie-register.php:690
+msgid "none"
+msgstr "none"
+
+#: pie-register.php:691
+msgid "* This field is required"
+msgstr "* This field is required"
+
+#: pie-register.php:692
+msgid "* Please select an option"
+msgstr "* Please select an option"
+
+#: pie-register.php:693
+msgid "* This checkbox is required"
+msgstr "* This checkbox is required"
+
+#: pie-register.php:694
+msgid "* Both date range fields are required"
+msgstr "* Both date range fields are required"
+
+#: pie-register.php:695
+msgid "* Field must equal test"
+msgstr "* Field must equal test"
+
+#: pie-register.php:696
+msgid "* Invalid "
+msgstr "* Invalid "
+
+#: pie-register.php:697
+msgid "Date Range"
+msgstr "Date Range"
+
+#: pie-register.php:698
+msgid "Date Time Range"
+msgstr "Date Time Range"
+
+#: pie-register.php:699
+msgid "* Minimum "
+msgstr "* Minimum "
+
+#: pie-register.php:700
+msgid " characters required"
+msgstr " characters required"
+
+#: pie-register.php:701
+msgid "* Maximum "
+msgstr "* Maximum "
+
+#: pie-register.php:702
+msgid " characters allowed"
+msgstr " characters allowed"
+
+#: pie-register.php:703
+msgid "* You must fill one of the following fields"
+msgstr "* You must fill one of the following fields"
+
+#: pie-register.php:704
+msgid "* Minimum value is "
+msgstr "* Minimum value is "
+
+#: pie-register.php:705
+msgid "* Date prior to "
+msgstr "* Date prior to "
+
+#: pie-register.php:706
+msgid "* Date past "
+msgstr "* Date past "
+
+#: pie-register.php:707
+msgid " options allowed"
+msgstr " options allowed"
+
+#: pie-register.php:708
+msgid "* Please select "
+msgstr "* Please select "
+
+#: pie-register.php:709
+msgid " options"
+msgstr " options"
+
+#: pie-register.php:710
+msgid "* Fields do not match"
+msgstr "* Fields do not match"
+
+#: pie-register.php:711
+msgid "* Invalid credit card number"
+msgstr "* Invalid credit card number"
+
+#: pie-register.php:712
+msgid "* Invalid phone number"
+msgstr "* Invalid phone number"
+
+#: pie-register.php:713
+msgid "* Allowed Format (xxx) xxx-xxxx"
+msgstr "* Allowed Format (xxx) xxx-xxxx"
+
+#: pie-register.php:714
+msgid "* Minimum 10 Digits starting with Country Code without + sign."
+msgstr "* Minimum 10 Digits starting with Country Code without + sign."
+
+#: pie-register.php:715
+msgid "* Invalid email address"
+msgstr "* Invalid email address"
+
+#: pie-register.php:716
+msgid "* Not a valid integer"
+msgstr "* Not a valid integer"
+
+#: pie-register.php:717
+msgid "* Invalid number"
+msgstr "* Invalid number"
+
+#: pie-register.php:718
+msgid "* Invalid month"
+msgstr "* Invalid month"
+
+#: pie-register.php:719
+msgid "* Invalid day"
+msgstr "* Invalid day"
+
+#: pie-register.php:720
+msgid "* Invalid year"
+msgstr "* Invalid year"
+
+#: pie-register.php:721
+msgid "* Invalid file extension"
+msgstr "* Invalid file extension"
+
+#: pie-register.php:722
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* Invalid date, must be in YYYY-MM-DD format"
+
+#: pie-register.php:723
+msgid "* Invalid IP address"
+msgstr "* Invalid IP address"
+
+#: pie-register.php:724
+msgid "* Invalid URL"
+msgstr "* Invalid URL"
+
+#: pie-register.php:725
+msgid "* Numbers only"
+msgstr "* Numbers only"
+
+#: pie-register.php:726
+msgid "* Letters only"
+msgstr "* Letters only"
+
+#: pie-register.php:727
+msgid "* No special characters allowed"
+msgstr "* No special characters allowed"
+
+#: pie-register.php:728 pie-register.php:731
+msgid "* This user is already taken"
+msgstr "* This user is already taken"
+
+#: pie-register.php:729 pie-register.php:732 pie-register.php:735
+msgid "* Validating, please wait"
+msgstr "* Validating, please wait"
+
+#: pie-register.php:730
+msgid "* This username is available"
+msgstr "* This username is available"
+
+#: pie-register.php:733 pie-register.php:736
+msgid "* This name is already taken"
+msgstr "* This name is already taken"
+
+#: pie-register.php:734
+msgid "* This name is available"
+msgstr "* This name is available"
+
+#: pie-register.php:737
+msgid "* Please input HELLO"
+msgstr "* Please input HELLO"
+
+#: pie-register.php:738
+msgid "* Invalid Date"
+msgstr "* Invalid Date"
+
+#: pie-register.php:739
+msgid "* Invalid Date or Date Format"
+msgstr "* Invalid Date or Date Format"
+
+#: pie-register.php:740
+msgid "Expected Format: "
+msgstr "Expected Format: "
+
+#: pie-register.php:741
+msgid "mm/dd/yyyy hh:mm:ss AM|PM or "
+msgstr "mm/dd/yyyy hh:mm:ss AM|PM or "
+
+#: pie-register.php:742
+msgid "yyyy-mm-dd hh:mm:ss AM|PM"
+msgstr "yyyy-mm-dd hh:mm:ss AM|PM"
+
+#: pie-register.php:743
+msgid "* Invalid Username"
+msgstr "* Invalid Username"
+
+#: pie-register.php:744
+msgid "* Invalid File"
+msgstr "* Invalid File"
+
+#: pie-register.php:745
+msgid "* Maximum value is "
+msgstr "* Maximum value is "
+
+#: pie-register.php:746
+msgid "* Alphabetic Letters only"
+msgstr "* Alphabetic Letters only"
+
+#: pie-register.php:747
+msgid "* Only Alphanumeric characters are allowed"
+msgstr "* Only Alphanumeric characters are allowed"
+
+#: pie-register.php:846
+msgid "Please select a form"
+msgstr "Please select a form"
+
+#: pie-register.php:848
+msgid "Invalid Fields"
+msgstr "Invalid Fields"
+
+#: pie-register.php:1091
+msgid "Currently this form is disabled by administrator."
+msgstr "Currently this form is disabled by administrator."
+
+#: pie-register.php:1099 pie-register.php:1104
+msgid "You are using wrong shortcode of Pie-Register."
+msgstr "You are using wrong shortcode of Pie-Register."
+
+#: pie-register.php:1340
+msgid "Pie Register - "
+msgstr "Pie Register - "
+
+#: pie-register.php:1388
+msgid "Visibility Restrictions"
+msgstr "Visibility Restrictions"
+
+#: pie-register.php:1391
+msgid "Visibility"
+msgstr "Visibility"
+
+#: pie-register.php:1398 piereg_walker-nav-menu.php:54
+msgid "Default"
+msgstr "Default"
+
+#: pie-register.php:1399 piereg_walker-nav-menu.php:55
+#: restrict_widget/show_in_use_restrict.php:18
+msgid "Show to Logged in Users"
+msgstr "Show to Logged in Users"
+
+#: pie-register.php:1400 piereg_walker-nav-menu.php:56
+#: restrict_widget/show_in_use_restrict.php:20
+msgid "Show to Non-Logged in Users"
+msgstr "Show to Non-Logged in Users"
+
+#: pie-register.php:1408 piereg_walker-nav-menu.php:43
+msgid "Show to"
+msgstr "Show to"
+
+#: pie-register.php:1418
+msgid "Restriction Type"
+msgstr "Restriction Type"
+
+#: pie-register.php:1428 pie-register.php:1464
+msgid "Block Content"
+msgstr "Block Content"
+
+#: pie-register.php:1437
+msgid "Redirect Url"
+msgstr "Redirect Url"
+
+#: pie-register.php:1451
+msgid "Redirect Page"
+msgstr "Redirect Page"
+
+#: pie-register.php:1472
+msgid "Restrict For Search Engine(s)"
+msgstr "Restrict For Search Engine(s)"
+
+#: pie-register.php:1489
+msgid "Use Global"
+msgstr "Use Global"
+
+#: pie-register.php:1496
+msgid "Bot Block Content"
+msgstr "Bot Block Content"
+
+#: pie-register.php:1505
+msgid "Sorry, your browser does not support JavaScript!"
+msgstr "Sorry, your browser does not support JavaScript!"
+
+#: pie-register.php:1539
+msgid "Activation Code"
+msgstr "Activation Code"
+
+#: pie-register.php:1670
+msgid "Add Pie Register Form"
+msgstr "Add Pie Register Form"
+
+#: pie-register.php:1670
+msgid "Add Form"
+msgstr "Add Form"
+
+#: pie-register.php:1690
+msgid "Select A Form"
+msgstr "Select A Form"
+
+#: pie-register.php:1692
+msgid "Select a form below to add it to your post or page."
+msgstr "Select a form below to add it to your post or page."
+
+#: pie-register.php:1711
+msgid "Other Form"
+msgstr "Other Form"
+
+#: pie-register.php:1760 pie-register.php:5434
+msgid "Invalid username or password."
+msgstr "Invalid username or password."
+
+#: pie-register.php:1854 pie-register.php:1874 pie-register.php:1884
+#: pie-register.php:1907 pie-register.php:1951 pie-register.php:6002
+msgid ""
+"We are sorry, but this IP address has been blocked due to too many recent "
+"failed login attempts."
+msgstr ""
+"We are sorry, but this IP address has been blocked due to too many recent "
+"failed login attempts."
+
+#: pie-register.php:1964 pie-register.php:5955
+msgid "The password you entered for the username"
+msgstr "The password you entered for the username"
+
+#: pie-register.php:1964 pie-register.php:5955
+msgid "is incorrect"
+msgstr "is incorrect"
+
+#: pie-register.php:2016
+msgid "Please Renew your account. "
+msgstr "Please Renew your account. "
+
+#: pie-register.php:2017
+msgid "Please Renew your account"
+msgstr "Please Renew your account"
+
+#: pie-register.php:2040
+msgid "Your account is not active"
+msgstr "Your account is not active"
+
+#: pie-register.php:2095
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: pie-register.php:2242
+msgid "your account has been suspended, Please renew your account"
+msgstr "your account has been suspended, Please renew your account"
+
+#: pie-register.php:2275
+msgid "Your account has been blocked"
+msgstr "Your account has been blocked"
+
+#: pie-register.php:2291
+msgid "Pie Register"
+msgstr "Pie Register"
+
+#: pie-register.php:2294
+msgid "Manage Forms"
+msgstr "Manage Forms"
+
+#: pie-register.php:2299
+msgid "New Form"
+msgstr "New Form"
+
+#: pie-register.php:2336 pie-register.php:3397
+msgid "Unverified Users"
+msgstr "Unverified Users"
+
+#: pie-register.php:2585 pie-register.php:3913 pie-register.php:4046
+#: pie-register.php:4627
+msgid "Settings Saved"
+msgstr "Settings Saved"
+
+#: pie-register.php:2588 pie-register.php:3566 pie-register.php:3639
+#: pie-register.php:3711 pie-register.php:3736 pie-register.php:3906
+#: pie-register.php:3971 pie-register.php:4017 pie-register.php:4032
+#: pie-register.php:4129 pie-register.php:4285 pie-register.php:4436
+#: pie-register.php:4550 pie-register.php:4590 pie-register.php:4616
+#: pie-register.php:6255 pie-register.php:6417 pie-register.php:6660
+#: pie-register.php:6698 pie-register.php:6779 pie-register.php:6832
+#: pie-register.php:6869 pie-register.php:6897 pie-register.php:6928
+#: pie-register.php:7027 pie-register.php:7060 pie-register.php:7258
+msgid "Sorry, your nonce did not verify"
+msgstr "Sorry, your nonce did not verify"
+
+#: pie-register.php:2674
+msgid "Please select any payment method"
+msgstr "Please select any payment method"
+
+#: pie-register.php:2976
+msgid "please select any payment method"
+msgstr "please select any payment method"
+
+#: pie-register.php:3026
+msgid ""
+"Thank you for your registration. You will be notified once the admin "
+"approves your account."
+msgstr ""
+"Thank you for your registration. You will be notified once the admin "
+"approves your account."
+
+#: pie-register.php:3066
+msgid ""
+"Thank you for your registration. An activation link with your password has "
+"been sent to you."
+msgstr ""
+"Thank you for your registration. An activation link with your password has "
+"been sent to you."
+
+#: pie-register.php:3105
+msgid ""
+"Thank you for your registration. You will be notified once the admin "
+"approves your account"
+msgstr ""
+"Thank you for your registration. You will be notified once the admin "
+"approves your account"
+
+#: pie-register.php:3401
+msgid "This will verify users of all types"
+msgstr "Verify Checked UsersThis will verify users of all types"
+
+#: pie-register.php:3401
+msgid "Verify Checked Users"
+msgstr "Verify Checked Users"
+
+#: pie-register.php:3403
+msgid "Resend Pending Payment E-mail"
+msgstr "Resend Pending Payment E-mail"
+
+#: pie-register.php:3405
+msgid "Resend Verification E-mail"
+msgstr "Resend Verification E-mail"
+
+#: pie-register.php:3420
+msgid "Registration Type"
+msgstr "Registration Type"
+
+#: pie-register.php:3449
+msgid "Payment Verification"
+msgstr "Payment Verification"
+
+#: pie-register.php:3560
+msgid "User(s) has been activated"
+msgstr "User(s) has been activated"
+
+#: pie-register.php:3563 pie-register.php:3635 pie-register.php:3709
+msgid "Please select a user to send emails to"
+msgstr "Please select a user to send emails to"
+
+#: pie-register.php:3628
+msgid "Payment Link Emails have been re-sent"
+msgstr "Payment Link Emails have been re-sent"
+
+#: pie-register.php:3630 pie-register.php:3706
+msgid "Invalid User Types"
+msgstr "Invalid User Types"
+
+#: pie-register.php:3704
+msgid "Verification Emails have been re-sent"
+msgstr "Verification Emails have been re-sent"
+
+#: pie-register.php:3733
+msgid "User(s) has been deleted"
+msgstr "User(s) has been deleted"
+
+#: pie-register.php:3927 pie-register.php:4027
+msgid "Status has been changed."
+msgstr "Status has been changed."
+
+#: pie-register.php:3934
+msgid "Record has been deleted"
+msgstr "Record has been deleted"
+
+#: pie-register.php:3946
+msgid "Please select any page or url for user role."
+msgstr "Please select any page or url for user role."
+
+#: pie-register.php:3964
+msgid "Successfully add new record"
+msgstr "Successfully add new record"
+
+#: pie-register.php:3968 pie-register.php:3992
+msgid "Invalid field(s)"
+msgstr "Invalid field(s)"
+
+#: pie-register.php:3988
+msgid "Successfully update record"
+msgstr "Successfully update record"
+
+#: pie-register.php:4013
+msgid "The Invitation Code has been deleted"
+msgstr "The Invitation Code has been deleted"
+
+#: pie-register.php:4052
+msgid "Code field should not be empty."
+msgstr "Code field should not be empty."
+
+#: pie-register.php:4059
+msgid "Usage only allows numeric characters."
+msgstr "Usage only allows numeric characters."
+
+#: pie-register.php:4064
+msgid "Usage should not be less than 0 (zero)."
+msgstr "Usage should not be less than 0 (zero)."
+
+#: pie-register.php:4099
+msgid "Special Characters are not allowed in code field."
+msgstr "Special Characters are not allowed in code field."
+
+#: pie-register.php:4104 pie-register.php:4120
+msgid " invitation Code(s) already exists"
+msgstr " invitation Code(s) already exists"
+
+#: pie-register.php:4112
+msgid "Invitation Code(s) added successfully"
+msgstr "Invitation Code(s) added successfully"
+
+#: pie-register.php:4118
+msgid " invitation Code(s) added successfully."
+msgstr " invitation Code(s) added successfully."
+
+#: pie-register.php:4123
+msgid " invitation Code(s) added successfully"
+msgstr " invitation Code(s) added successfully"
+
+#: pie-register.php:4320
+msgid "You did not select a file to import users"
+msgstr "You did not select a file to import users"
+
+#: pie-register.php:4326
+msgid "Invalid CSV file."
+msgstr "Invalid CSV file."
+
+#: pie-register.php:4335
+msgid "Invalid CSV File. It must contain all the default user fields."
+msgstr "Invalid CSV File. It must contain all the default user fields."
+
+#: pie-register.php:4723
+msgid "Confirm E-Mail"
+msgstr "Confirm E-Mail"
+
+#: pie-register.php:4956
+#: pie_register_template/profile_edit/edit_form_template.php:553
+#: pie_register_template/profile_edit/edit_form_template.php:562
+#: pie_register_template/profile_edit/edit_form_template.php:587
+#: pie_register_template/registration/registration_form_template.php:727
+#: pie_register_template/registration/registration_form_template.php:736
+#: pie_register_template/registration/registration_form_template.php:761
+#: pie_register_template/registration/registration_form_template.php:774
+msgid "YYYY"
+msgstr "YYYY"
+
+#: pie-register.php:5027
+#: pie_register_template/profile_edit/edit_form_template.php:224
+#: pie_register_template/registration/registration_form_template.php:320
+msgid "HH"
+msgstr "HH"
+
+#: pie-register.php:5386
+msgid "Paypal (Standard)"
+msgstr "Paypal (Standard)"
+
+#: pie-register.php:5505
+msgid "User registration is currently not allowed."
+msgstr "User registration is currently not allowed."
+
+#: pie-register.php:5550
+msgid "Please renew your account"
+msgstr "Please renew your account"
+
+#: pie-register.php:5702
+msgid "Please"
+msgstr "Please"
+
+#: pie-register.php:5702
+msgid "login"
+msgstr "login"
+
+#: pie-register.php:5702
+msgid "to see your profile"
+msgstr "to see your profile"
+
+#: pie-register.php:5934
+msgid "Invalid auth keys hash"
+msgstr "Invalid auth keys hash"
+
+#: pie-register.php:5938
+msgid "Invalid User"
+msgstr "Invalid User"
+
+#: pie-register.php:5967 renew_account.php:104 renew_account.php:182
+msgid "Renew Account"
+msgstr "Renew Account"
+
+#: pie-register.php:5977
+msgid "Invalid Username or Password"
+msgstr "Invalid Username or Password"
+
+#: pie-register.php:5981
+msgid "Please Select any payment method"
+msgstr "Please Select any payment method"
+
+#: pie-register.php:6033
+msgid "Invalid Field(s)"
+msgstr "Invalid Field(s)"
+
+#: pie-register.php:6288 pie-register.php:6300 pie-register.php:6312
+#: pie-register.php:6324
+msgid "Invalid File"
+msgstr "Invalid File"
+
+#: pie-register.php:6434 pie-register.php:6438 pie-register.php:6714
+#: pie-register.php:6718 pie-register.php:6848 pie-register.php:6852
+#: pie-register.php:6925
+msgid "The file version is not compatible with this version"
+msgstr "The file version is not compatible with this version"
+
+#: pie-register.php:6454 pie-register.php:6468 pie-register.php:6479
+#: pie-register.php:6491 pie-register.php:6504 pie-register.php:6510
+#: pie-register.php:6524 pie-register.php:6548 pie-register.php:6561
+#: pie-register.php:6567 pie-register.php:6585 pie-register.php:6617
+#: pie-register.php:6654
+msgid "Successfully import all settings"
+msgstr "Successfully import all settings"
+
+#: pie-register.php:6695
+msgid "Record(s) not found"
+msgstr "Record(s) not found"
+
+#: pie-register.php:6775
+msgid "Successfully import invitation codes"
+msgstr "Successfully import invitation codes"
+
+#: pie-register.php:6864
+msgid "Successfully import e-mail templates"
+msgstr "Successfully import e-mail templates"
+
+#: pie-register.php:7005
+msgid "View Pie-Register Documentation"
+msgstr "View Pie-Register Documentation"
+
+#: pie-register.php:7005
+msgid "Docs"
+msgstr "Docs"
+
+#: pie-register.php:7006
+msgid "Visit Customer Support Forum"
+msgstr "Visit Customer Support Forum"
+
+#: pie-register.php:7006
+msgid "Support"
+msgstr "Support"
+
+#: pie-register.php:7190
+msgid ""
+"Please follow the link sent to your new Email to verify and make the change "
+"applied!"
+msgstr ""
+"Please follow the link sent to your new Email to verify and make the change "
+"applied!"
+
+#: pie-register.php:7194 pie-register.php:7217
+msgid "Invalid request. This key is no longer exists"
+msgstr "Invalid request. This key is no longer exists"
+
+#: pie-register.php:7206
+msgid "There is a problem updating your new Email Address, Pleasde try again!"
+msgstr "There is a problem updating your new Email Address, Pleasde try again!"
+
+#: pie-register.php:7212
+msgid ""
+"You have successfully verified your new Email address. Your Account Email "
+"has been changed"
+msgstr ""
+"You have successfully verified your new Email address. Your Account Email "
+"has been changed"
+
+#: pie-register.php:7249
+msgid "Empty Payment Log File"
+msgstr "Empty Payment Log File"
+
+#: pie-register.php:7254
+msgid "Successfully remove payment log"
+msgstr "Successfully remove payment log"
+
+#: pie_register_template/login/login_form_template.php:37
+msgid "Remember Me"
+msgstr "Remember Me"
+
+#: pie_register_template/login/login_form_template.php:44
+msgid "Log In"
+msgstr "Log In"
+
+#: pie_register_template/login/login_form_template.php:55
+#: pie_register_template/reset_password/reset_password_form_template.php:35
+#: pie_register_template/reset_password/reset_password_form_template.php:88
+msgid "Register"
+msgstr "Register"
+
+#: pie_register_template/login/login_form_template.php:62
+#: pie_register_template/reset_password/reset_password_form_template.php:40
+#: pie_register_template/reset_password/reset_password_form_template.php:91
+msgid "Are you lost?"
+msgstr "Are you lost?"
+
+#: pie_register_template/login/login_form_template.php:62
+msgid " Back to "
+msgstr " Back to "
+
+#: pie_register_template/profile_edit/edit_form_template.php:105
+msgid "Old Password"
+msgstr "Old Password"
+
+#: pie_register_template/profile_edit/edit_form_template.php:295
+msgid "January"
+msgstr "January"
+
+#: pie_register_template/profile_edit/edit_form_template.php:296
+msgid "February"
+msgstr "February"
+
+#: pie_register_template/profile_edit/edit_form_template.php:297
+msgid "March"
+msgstr "March"
+
+#: pie_register_template/profile_edit/edit_form_template.php:298
+msgid "April"
+msgstr "April"
+
+#: pie_register_template/profile_edit/edit_form_template.php:299
+msgid "May"
+msgstr "May"
+
+#: pie_register_template/profile_edit/edit_form_template.php:300
+msgid "June"
+msgstr "June"
+
+#: pie_register_template/profile_edit/edit_form_template.php:301
+msgid "July"
+msgstr "July"
+
+#: pie_register_template/profile_edit/edit_form_template.php:302
+msgid "August"
+msgstr "August"
+
+#: pie_register_template/profile_edit/edit_form_template.php:303
+msgid "September"
+msgstr "September"
+
+#: pie_register_template/profile_edit/edit_form_template.php:304
+msgid "October"
+msgstr "October"
+
+#: pie_register_template/profile_edit/edit_form_template.php:305
+msgid "November"
+msgstr "November"
+
+#: pie_register_template/profile_edit/edit_form_template.php:306
+msgid "December"
+msgstr "December"
+
+#: pie_register_template/profile_edit/edit_form_template.php:848
+msgid "Previous"
+msgstr "Previous"
+
+#: pie_register_template/registration/registration_form_template.php:223
+msgid "Confirm E-mail"
+msgstr "Confirm E-mail"
+
+#: pie_register_template/registration/registration_form_template.php:435
+msgid "Paypal (Standard) payment method applied."
+msgstr "Paypal (Standard) payment method applied."
+
+#: pie_register_template/registration/registration_form_template.php:443
+msgid "No payment methods selected by administrator."
+msgstr "No payment methods selected by administrator."
+
+#: pie_register_template/registration/registration_form_template.php:1326
+msgid "Weak Password"
+msgstr "Weak Password"
+
+#: pie_register_template/registration/registration_form_template.php:1342
+msgid "Password not entered"
+msgstr "Password not entered"
+
+#: pie_register_template/reset_password/reset_password_form_template.php:26
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: pie_register_template/reset_password/reset_password_form_template.php:33
+#: pie_register_template/reset_password/reset_password_form_template.php:86
+msgid "Log in"
+msgstr "Log in"
+
+#: pie_register_template/reset_password/reset_password_form_template.php:40
+#: pie_register_template/reset_password/reset_password_form_template.php:91
+msgid "Back to"
+msgstr "Back to"
+
+#: pie_register_template/reset_password/reset_password_form_template.php:49
+msgid "Username or E-mail:"
+msgstr "Username or E-mail:"
+
+#: pie_register_template/reset_password/reset_password_form_template.php:78
+msgid "Reset my password"
+msgstr "Reset my password"
+
+#: piereg_walker-nav-menu.php:51
+msgid "Visibility Status"
+msgstr "Visibility Status"
+
+#: piereg_walker-nav-menu.php:65
+msgid "Show Only"
+msgstr "Show Only"
+
+#: piereg_walker-nav-menu.php:240
+msgid "Original : "
+msgstr "Original : "
+
+#: renew_account.php:73
+msgid "Invalid activation key."
+msgstr "Invalid activation key."
+
+#: renew_account.php:105
+msgid "Required Field(s)"
+msgstr "Required Field(s)"
+
+#: renew_account.php:156
+msgid "Select Payment"
+msgstr "Select Payment"
+
+#: restrict_widget/admin_actions.php:41
+msgid "Saved Settings"
+msgstr "Saved Settings"
+
+#: restrict_widget/admin_template_edit.php:19
+#: restrict_widget/admin_template_main.php:4
+msgid "Custom widgets"
+msgstr "Custom widgets"
+
+#: restrict_widget/admin_template_edit.php:19
+msgid "Customize"
+msgstr "Customize"
+
+#: restrict_widget/admin_template_main.php:8
+msgid "Widgets"
+msgstr "Widgets"
+
+#: restrict_widget/admin_template_main.php:9
+msgid "Select a widget from the list that you want to customize"
+msgstr "Select a widget from the list that you want to customize"
+
+#: restrict_widget/admin_template_main.php:11
+msgid "Are you sure you want to reset all widgets?"
+msgstr "Are you sure you want to reset all widgets?"
+
+#: restrict_widget/admin_template_main.php:11
+msgid "Reset all widgets"
+msgstr "Reset all widgets"
+
+#: restrict_widget/admin_template_main.php:15
+msgid "Legend"
+msgstr "Legend"
+
+#: restrict_widget/admin_template_main.php:17
+msgid "Normal Widget"
+msgstr "Normal Widget"
+
+#: restrict_widget/admin_template_main.php:19
+msgid "Customized Widget"
+msgstr "Customized Widget"
+
+#: restrict_widget/admin_template_main.php:32
+msgid "No widgets registered. Please setup at least one widget via wordpress"
+msgstr "No widgets registered. Please setup at least one widget via wordpress"
+
+#: restrict_widget/admin_template_main.php:32
+msgid "widgets control panel"
+msgstr "widgets control panel"
+
+#: restrict_widget/admin_template_main.php:32
+msgid "found under the Design tab"
+msgstr "found under the Design tab"
+
+#: restrict_widget/admin_template_main.php:43
+msgid "Not registered"
+msgstr "Not registered"
+
+#: restrict_widget/admin_template_main.php:68
+msgid "Text widget"
+msgstr "Text widget"
+
+#: restrict_widget/show_in_use_restrict.php:22
+msgid "Show All Users"
+msgstr "Show All Users"
+
+#: restrict_widget/show_in_use_restrict.php:61
+msgid "Unselect All"
+msgstr "Unselect All"
+
+#: widget.php:11
+msgid "Pie Register - Registration Form"
+msgstr "Pie Register - Registration Form"
+
+#: widget.php:12
+msgid "Display Your Pie-Register Registration Form on Sidebar"
+msgstr "Display Your Pie-Register Registration Form on Sidebar"
+
+#: widget.php:62
+msgid "Pie Registration Form"
+msgstr "Pie Registration Form"
+
+#: widget.php:70 widget.php:294
+msgid "Title:"
+msgstr "Title:"
+
+#: widget.php:74
+msgid "Form:"
+msgstr "Form:"
+
+#: widget.php:89
+msgid "Form Title:"
+msgstr "Form Title:"
+
+#: widget.php:98
+msgid "Form Description:"
+msgstr "Form Description:"
+
+#: widget.php:133
+msgid "Pie Register - Login Form"
+msgstr "Pie Register - Login Form"
+
+#: widget.php:134
+msgid "Display Pie-Register Login Form on Sidebar"
+msgstr "Display Pie-Register Login Form on Sidebar"
+
+#: widget.php:208
+msgid "Pie Login"
+msgstr "Pie Login"
+
+#: widget.php:214
+msgid "Welcome User"
+msgstr "Welcome User"
+
+#: widget.php:225
+msgid "Before Login Title:"
+msgstr "Before Login Title:"
+
+#: widget.php:227
+msgid "After Login Title:"
+msgstr "After Login Title:"
+
+#: widget.php:232
+msgid "Social Login:"
+msgstr "Social Login:"
+
+#: widget.php:259
+msgid "Pie Register - Forgot Password Form"
+msgstr "Pie Register - Forgot Password Form"
+
+#: widget.php:272 widget.php:289
+msgid "Forgot password"
+msgstr "Forgot password"
+
+#~ msgid " to get your key. "
+#~ msgstr " to get your key. "
+
+#~ msgid "Error in your password fields"
+#~ msgstr "Error in your password fields"
+
+#~ msgid " Username already exists"
+#~ msgstr " Username already exists"
+
+#~ msgid " Invalid E-mail address"
+#~ msgstr " Invalid E-mail address"
+
+#~ msgid " Invalid File Type."
+#~ msgstr " Invalid File Type."
+
+#~ msgid " Invalid Invitation Code."
+#~ msgstr " Invalid Invitation Code."
+
+#~ msgid "Invalid Security Code "
+#~ msgstr "Invalid Security Code "
+
+#~ msgid " Code Tracking"
+#~ msgstr " Code Tracking"
+
+#~ msgid ""
+#~ "Someone has asked to reset the password for the following site and "
+#~ "username."
+#~ msgstr ""
+#~ "Someone has asked to reset the password for the following site and "
+#~ "username."
+
+#~ msgid ""
+#~ "To reset your password visit the following address, otherwise just ignore "
+#~ "this email and nothing will happen."
+#~ msgstr ""
+#~ "To reset your password visit the following address, otherwise just ignore "
+#~ "this email and nothing will happen."
+
+#~ msgid "Support License Key"
+#~ msgstr "Support License Key"
+
+#~ msgid ""
+#~ "The license key is used for access to automatic upgrades and support."
+#~ msgstr ""
+#~ "The license key is used for access to automatic upgrades and support."
+
+#~ msgid "Get Theme Styles"
+#~ msgstr "Get Theme Styles"
+
+#~ msgid "Display Hints"
+#~ msgstr "Display Hints"
+
+#~ msgid ""
+#~ "Set this to Yes if you would like to see the Tips on Form Editor Page ."
+#~ msgstr ""
+#~ "Set this to Yes if you would like to see the Tips on Form Editor Page ."
+
+#~ msgid "Block WP-Login Pages"
+#~ msgstr "Block WP-Login Pages"
+
+#~ msgid ""
+#~ "Set this to Yes if you would like to block WP Login. You must select "
+#~ "alternate pages."
+#~ msgstr ""
+#~ "Set this to Yes if you would like to block WP Login. You must select "
+#~ "alternate pages."
+
+#~ msgid "Subscriber Redirect"
+#~ msgstr "Subscriber Redirect"
+
+#~ msgid ""
+#~ "Set this to Yes if you would like to block Login, Registration & Forgot "
+#~ "Password pages for logged in users."
+#~ msgstr ""
+#~ "Set this to Yes if you would like to block Login, Registration & Forgot "
+#~ "Password pages for logged in users."
+
+#~ msgid "Subscibers Access"
+#~ msgstr "Subscibers Access"
+
+#~ msgid ""
+#~ "Set this to No if you would like to disable the wp-admin login for "
+#~ "subscribers."
+#~ msgstr ""
+#~ "Set this to No if you would like to disable the wp-admin login for "
+#~ "subscribers."
+
+#~ msgid "Only valid for subscribers."
+#~ msgstr "Only valid for subscribers."
+
+#~ msgid "Output CSS"
+#~ msgstr "Output CSS"
+
+#~ msgid ""
+#~ "Set this to No if you would like to disable the plugin from outputting "
+#~ "the form CSS."
+#~ msgstr ""
+#~ "Set this to No if you would like to disable the plugin from outputting "
+#~ "the form CSS."
+
+#~ msgid "Currency"
+#~ msgstr "Currency"
+
+#~ msgid ""
+#~ "Unverified Users will be automatically deleted after grace period expires"
+#~ msgstr ""
+#~ "Unverified Users will be automatically deleted after grace period expires"
+
+#~ msgid "Installation Status"
+#~ msgstr "Installation Status"
+
+#~ msgid "Please don't use style tags."
+#~ msgstr "Please don't use style tags."
+
+#~ msgid "Notifications : Registration Form"
+#~ msgstr "Notifications : Registration Form"
+
+#~ msgid "Notifications to Administrator"
+#~ msgstr "Notifications to Administrator"
+
+#~ msgid "Form Editor : Registration Form"
+#~ msgstr "Form Editor : Registration Form"
+
+#~ msgid "Payment Gateway Settings"
+#~ msgstr "Payment Gateway Settings"
+
+#~ msgid "Notifications to Users"
+#~ msgstr "Notifications to Users"
+
+#~ msgid "Messsage Type"
+#~ msgstr "Messsage Type"
+
+#~ msgid "There was a problem with your username or password."
+#~ msgstr "There was a problem with your username or password."
+
+#~ msgid "Your plugin has been registered"
+#~ msgstr "Your plugin has been registered"
+
+#~ msgid "Form Preview"
+#~ msgstr "Form Preview"
+
+#~ msgid "URL Settings"
+#~ msgstr "URL Settings"
+
+#~ msgid "Need Help?"
+#~ msgstr "Need Help?"
+
+#~ msgid "If you have any query, feel free to post your Questions at our"
+#~ msgstr "If you have any query, feel free to post your Questions at our"
+
+#~ msgid "Hosted Forum"
+#~ msgstr "Hosted Forum"
+
+#~ msgid "to get free support"
+#~ msgstr "to get free support"
+
+#~ msgid "Do you like this plugin?"
+#~ msgstr "Do you like this plugin?"
+
+#~ msgid "Rate it 5"
+#~ msgstr "Rate it 5"
+
+#~ msgid "on WordPress.org"
+#~ msgstr "on WordPress.org"
+
+#~ msgid "Blog about it & link to the"
+#~ msgstr "Blog about it & link to the"
+
+#~ msgid "plugin page"
+#~ msgstr "plugin page"
+
+#~ msgid "Check out our"
+#~ msgstr "Check out our"
+
+#~ msgid "WordPress plugins"
+#~ msgstr "WordPress plugins"
+
+#~ msgid "Developed by"
+#~ msgstr "Developed by"
+
+#~ msgid "Frontend Setting"
+#~ msgstr "Frontend Setting"
+
+#~ msgid "Field must contain only numbers"
+#~ msgstr "Field must contain only numbers"
+
+#~ msgid "Must be a valid URL"
+#~ msgstr "Must be a valid URL"
+
+#~ msgid "Field may only contain alpha-numeric characters"
+#~ msgstr "Field may only contain alpha-numeric characters"
+
+#~ msgid "Field must contain a valid email address"
+#~ msgstr "Field must contain a valid email address"
+
+#~ msgid "Subscriber level users will redirect to this page after signing in."
+#~ msgstr "Subscriber level users will redirect to this page after signing in."
+
+#~ msgid "After logout will redirect to this page after Logout page."
+#~ msgstr "After logout will redirect to this page after Logout page."
+
+#~ msgid "After logout will redirect to this url after Logout."
+#~ msgstr "After logout will redirect to this url after Logout."
+
+#~ msgid "After Sign-in Page"
+#~ msgstr "After Sign-in Page"
+
+#~ msgid "After Logout URL"
+#~ msgstr "After Logout URL"
+
+#~ msgid "Show Admin Bar for Subscriber."
+#~ msgstr "Show Admin Bar for Subscriber."
+
+#~ msgid "Modify WP-LOGIN"
+#~ msgstr "Modify WP-LOGIN"
+
+#~ msgid "Override WP-Profile"
+#~ msgstr "Override WP-Profile"
+
+#~ msgid ""
+#~ "Set this to No if you would like to disable Pie-Register from outputting "
+#~ "the form CSS."
+#~ msgstr ""
+#~ "Set this to No if you would like to disable Pie-Register from outputting "
+#~ "the form CSS."
+
+#~ msgid "The license key for support."
+#~ msgstr "The license key for support."
+
+#~ msgid "You have been using registered version of pie-register"
+#~ msgstr "You have been using registered version of pie-register"
+
+#~ msgid "Click here to de-activate your license key"
+#~ msgstr "Click here to de-activate your license key"
+
+#~ msgid "Remove License Key"
+#~ msgstr "Remove License Key"
+
+#~ msgid "Unactive Code"
+#~ msgstr "Unactive Code"
+
+#~ msgid ""
+#~ "Please Click on the license icon to get and auto-filled your free license "
+#~ "key"
+#~ msgstr ""
+#~ "Please Click on the license icon to get and auto-filled your free license "
+#~ "key"
+
+#~ msgid "Click here to get your free license key"
+#~ msgstr "Click here to get your free license key"
+
+#~ msgid "Numbers"
+#~ msgstr "Numbers"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Default User Registration Template"
+#~ msgstr "Default User Registration Template"
+
+#~ msgid "E-Mail Verification"
+#~ msgstr "E-Mail Verification"
+
+#~ msgid "Thank You Message"
+#~ msgstr "Thank You Message"
+
+#~ msgid "Pending Payment Reminder"
+#~ msgstr "Pending Payment Reminder"
+
+#~ msgid "Forgot Password Notification"
+#~ msgstr "Forgot Password Notification"
+
+#~ msgid "Frontend Settings"
+#~ msgstr "Frontend Settings"
+
+#~ msgid "You are block"
+#~ msgstr "You account has been blocked"
+
+#~ msgid "Remove Settings"
+#~ msgstr "Remove Settings"
+
+#~ msgid "After Logout"
+#~ msgstr "After Logout"
+
+#~ msgid "Ending Date"
+#~ msgstr "Ending Date"
+
+#~ msgid "Remove Settings On Deactivation"
+#~ msgstr "Remove Settings On Deactivation"
+
+#~ msgid "Steps"
+#~ msgstr "Steps"
+
+#~ msgid "Guideline"
+#~ msgstr "Guideline"
+
+#~ msgid "Not Found Invitaion Code"
+#~ msgstr "Not Found Invitaion Code"
+
+#~ msgid "Embedding Forms/Shortcodes"
+#~ msgstr "Embedding Forms/Shortcodes"
+
+#~ msgid "For login form use"
+#~ msgstr "For login form use"
+
+#~ msgid "For Registration form use"
+#~ msgstr "For Registration form use"
+
+#~ msgid "For profile page use"
+#~ msgstr "For profile page use"
+
+#~ msgid "Submit"
+#~ msgstr "Submit"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Create a Support Ticket"
+#~ msgstr "Create a Support Ticket"
+
+#~ msgid "Paypal (one time subscription)"
+#~ msgstr "Paypal (one time subscription)"
+
+#~ msgid "Next"
+#~ msgstr "Next"
+
+#~ msgid "ERROR"
+#~ msgstr "ERROR"
+
+#~ msgid "e-mail: "
+#~ msgstr "e-mail: "
+
+#~ msgid ""
+#~ "Your account requires activation by an administrator before you will be "
+#~ "able to login."
+#~ msgstr ""
+#~ "Your account requires activation by an administrator before you will be "
+#~ "able to login."
+
+#~ msgid "Verification URL: "
+#~ msgstr "Verification URL: "
+
+#~ msgid "Please use the link above to verify and activate your account"
+#~ msgstr "Please use the link above to verify and activate your account"
+
+#~ msgid "Please click on the above link to verify your email"
+#~ msgstr "Please click on the above link to verify your email"
+
+#~ msgid "Alternate Login Page"
+#~ msgstr "Alternate Login Page"
+
+#~ msgid "USA Format (xxx) (xxx-xxxx)"
+#~ msgstr "USA Format (xxx) (xxx-xxxx)"
+
+#~ msgid "Phone International xxx-xxx-xxxx"
+#~ msgstr "Phone International xxx-xxx-xxxx"
+
+#~ msgid ""
+#~ "Warning: Turning off any script here may stop Pie-Register to work "
+#~ "properly, please do it carefully!"
+#~ msgstr ""
+#~ "Warning: Turning off any script here may stop Pie-Register to work "
+#~ "properly, please do it carefully!"
+
+#~ msgid "Password Strength Meter Settings"
+#~ msgstr "Password Strength Meter Settings"
+
+#~ msgid "Edit Field"
+#~ msgstr "Edit Field"
+
+#~ msgid "Pie Register - Forgot Password"
+#~ msgstr "Pie Register - Forgot Password"
+
+#~ msgid "Pie Register - Profile"
+#~ msgstr "Pie Register - Profile"
+
+#~ msgid "Jan"
+#~ msgstr "Jan"
+
+#~ msgid "Feb"
+#~ msgstr "Feb"
+
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgid "Apr"
+#~ msgstr "Apr"
+
+#~ msgid "Jun"
+#~ msgstr "Jun"
+
+#~ msgid "Jul"
+#~ msgstr "Jul"
+
+#~ msgid "Aug"
+#~ msgstr "Aug"
+
+#~ msgid "Sep"
+#~ msgstr "Sep"
+
+#~ msgid "Oct"
+#~ msgstr "Oct"
+
+#~ msgid "Nov"
+#~ msgstr "Nov"
+
+#~ msgid "Dec"
+#~ msgstr "Dec"
+
+#~ msgid "Invalid or malformed request. This key is no longer exists"
+#~ msgstr "Invalid or malformed request. This key is no longer exists"
+
+#~ msgid "Please install MB String on server"
+#~ msgstr "Please install MB String on server"
+
+#~ msgid "Email Edit Verifications"
+#~ msgstr "Email Edit Verifications"
+
+#~ msgid "1 Step (Verify new address only)"
+#~ msgstr "1 Step (Verify new address only)"

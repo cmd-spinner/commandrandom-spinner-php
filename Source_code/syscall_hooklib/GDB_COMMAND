@@ -1,0 +1,4 @@
+set exec-wrapper env 'LD_PRELOAD=/home/developer/prj/hooklib/hook.so'
+file ls
+set args *
+

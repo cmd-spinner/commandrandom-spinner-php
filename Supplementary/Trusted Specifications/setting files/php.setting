@@ -1,0 +1,8 @@
+{
+    "shell": ["opassthru", "system", "popen", "shell_exec", "exec", "proc_open"],
+    "db": ["mysqli::multi_query", "mysqli::prepare", "mysqli::real_query", "mysqli::send_query", "mysql_query"],
+    "xml":["simplexml_load_file"],
+    "config": ["/etc/php/7.4/cli/php.ini"],
+    "env":["getenv"],
+    "folder":""
+}

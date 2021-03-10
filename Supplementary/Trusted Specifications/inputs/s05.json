@@ -1,0 +1,8 @@
+{
+    "shell": ["passthru", "system", "popen", "shell_exec", "exec", "proc_open"],
+    "db": ["mysqli::multi_query", "mysqli::prepare", "mysqli::real_query", "mysqli::send_query", "mysql_query"],
+    "xml":["simplexml_load_file"],
+    "config": ["ini_get","parse_ini_file"],
+    "env":["getenv"],
+    "folder":""
+}

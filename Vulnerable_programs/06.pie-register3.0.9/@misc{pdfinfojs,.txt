@@ -1,0 +1,7 @@
+@misc{Taint'em All,
+  author  = {quanyang},
+  title     = {{Github-quanyang/Taint-em-All:a taint analysis tool for the PHP language}},
+  note      = {\url{https://github.com/quanyang/Taint-em-All}},
+  year      = {2019},
+}
+

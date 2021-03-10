@@ -1,0 +1,12 @@
+language: php
+
+php:
+   - 7.0
+   - 7.1
+   - nightly
+
+before_script:
+   - php build.php
+   - ls modules/*.php | xargs -n 1 php -l
+
+script: php -l build/index.php

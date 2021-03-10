@@ -1,0 +1,8 @@
+{
+    "shell": ["spawn", "exec", "execFile", "spawnSync", "execSync", "execFileSync"],
+    "db": ["mysql.createConnection.query"],
+    "xml":["libxml.parseXmlString", "parser.parseString", "parser.push","element.find","element.get"],
+    "config": "",
+    "env":["process.env"],
+    "folder":""
+}
